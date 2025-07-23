@@ -1,0 +1,3752 @@
+{
+  "Wheat": {
+    "ingredients": {
+      "Wheat": 1
+    },
+    "time": 2,
+    "xp": 1,
+    "machine": "Field"
+  },
+  "Egg": {
+    "ingredients": {
+      "Chicken feed": 1
+    },
+    "time": 20,
+    "xp": 2,
+    "machine": "Chicken"
+  },
+  "Corn": {
+    "ingredients": {
+      "Corn": 1
+    },
+    "time": 5,
+    "xp": 1,
+    "machine": "Field"
+  },
+  "Bread": {
+    "ingredients": {
+      "Wheat": 3
+    },
+    "time": 5,
+    "xp": 3,
+    "machine": "Bakery"
+  },
+  "Chicken feed": {
+    "ingredients": {
+      "Corn": 1,
+      "Wheat": 2
+    },
+    "time": 5,
+    "xp": 1,
+    "machine": "Feed Mill"
+  },
+  "Soybean": {
+    "ingredients": {
+      "Soybean": 1
+    },
+    "time": 20,
+    "xp": 2,
+    "machine": "Field"
+  },
+  "Cow feed": {
+    "ingredients": {
+      "Corn": 1,
+      "Soybean": 2
+    },
+    "time": 10,
+    "xp": 2,
+    "machine": "Feed Mill"
+  },
+  "Milk": {
+    "ingredients": {
+      "Cow feed": 1
+    },
+    "time": 60,
+    "xp": 3,
+    "machine": "Cow"
+  },
+  "Cream": {
+    "ingredients": {
+      "Milk": 1
+    },
+    "time": 20,
+    "xp": 6,
+    "machine": "Dairy"
+  },
+  "Sugarcane": {
+    "ingredients": {
+      "Sugarcane": 1
+    },
+    "time": 30,
+    "xp": 3,
+    "machine": "Field"
+  },
+  "Corn bread": {
+    "ingredients": {
+      "Corn": 2,
+      "Egg": 2
+    },
+    "time": 30,
+    "xp": 8,
+    "machine": "Bakery"
+  },
+  "Brown sugar": {
+    "ingredients": {
+      "Sugarcane": 1
+    },
+    "time": 20,
+    "xp": 4,
+    "machine": "Sugar Mill"
+  },
+  "Popcorn": {
+    "ingredients": {
+      "Corn": 2
+    },
+    "time": 30,
+    "xp": 4,
+    "machine": "Popcorn Pot"
+  },
+  "Carrot": {
+    "ingredients": {
+      "Carrot": 1
+    },
+    "time": 10,
+    "xp": 2,
+    "machine": "Field"
+  },
+  "Butter": {
+    "ingredients": {
+      "Milk": 2
+    },
+    "time": 30,
+    "xp": 10,
+    "machine": "Dairy"
+  },
+  "Pancake": {
+    "ingredients": {
+      "Brown sugar": 1,
+      "Egg": 3
+    },
+    "time": 30,
+    "xp": 13,
+    "machine": "BBQ Grill"
+  },
+  "Pig feed": {
+    "ingredients": {
+      "Carrot": 2,
+      "Soybean": 1
+    },
+    "time": 20,
+    "xp": 2,
+    "machine": "Feed Mill"
+  },
+  "Bacon": {
+    "ingredients": {
+      "Pig feed": 1
+    },
+    "time": 240,
+    "xp": 5,
+    "machine": "Pig"
+  },
+  "Cookie": {
+    "ingredients": {
+      "Brown sugar": 1,
+      "Egg": 2,
+      "Wheat": 2
+    },
+    "time": 60,
+    "xp": 13,
+    "machine": "Bakery"
+  },
+  "Bacon and eggs": {
+    "ingredients": {
+      "Bacon": 2,
+      "Egg": 4
+    },
+    "time": 60,
+    "xp": 24,
+    "machine": "BBQ Grill"
+  },
+  "Cheese": {
+    "ingredients": {
+      "Milk": 3
+    },
+    "time": 60,
+    "xp": 15,
+    "machine": "Dairy"
+  },
+  "Indigo": {
+    "ingredients": {
+      "Indigo": 1
+    },
+    "time": 120,
+    "xp": 5,
+    "machine": "Field"
+  },
+  "White sugar": {
+    "ingredients": {
+      "Sugarcane": 2
+    },
+    "time": 40,
+    "xp": 6,
+    "machine": "Sugar Mill"
+  },
+  "Carrot pie": {
+    "ingredients": {
+      "Carrot": 3,
+      "Egg": 1,
+      "Wheat": 2
+    },
+    "time": 60,
+    "xp": 10,
+    "machine": "Pie Oven"
+  },
+  "Pumpkin": {
+    "ingredients": {
+      "Pumpkin": 1
+    },
+    "time": 180,
+    "xp": 6,
+    "machine": "Field"
+  },
+  "Pumpkin pie": {
+    "ingredients": {
+      "Egg": 1,
+      "Pumpkin": 3,
+      "Wheat": 2
+    },
+    "time": 120,
+    "xp": 19,
+    "machine": "Pie Oven"
+  },
+  "Apple": {
+    "ingredients": {},
+    "time": 960,
+    "xp": 7,
+    "machine": "Apple tree"
+  },
+  "Sheep feed": {
+    "ingredients": {
+      "Soybean": 1,
+      "Wheat": 3
+    },
+    "time": 30,
+    "xp": 3,
+    "machine": "Feed Mill"
+  },
+  "Wool": {
+    "ingredients": {
+      "Sheep feed": 1
+    },
+    "time": 360,
+    "xp": 5,
+    "machine": "Sheep"
+  },
+  "Buttered popcorn": {
+    "ingredients": {
+      "Butter": 1,
+      "Corn": 2
+    },
+    "time": 60,
+    "xp": 15,
+    "machine": "Popcorn Pot"
+  },
+  "Sweater": {
+    "ingredients": {
+      "Wool": 2
+    },
+    "time": 120,
+    "xp": 18,
+    "machine": "Loom"
+  },
+  "Cotton": {
+    "ingredients": {
+      "Cotton": 1
+    },
+    "time": 150,
+    "xp": 6,
+    "machine": "Field"
+  },
+  "Bacon pie": {
+    "ingredients": {
+      "Bacon": 3,
+      "Egg": 1,
+      "Wheat": 2
+    },
+    "time": 180,
+    "xp": 26,
+    "machine": "Pie Oven"
+  },
+  "Syrup": {
+    "ingredients": {
+      "Sugarcane": 4
+    },
+    "time": 90,
+    "xp": 11,
+    "machine": "Sugar Mill"
+  },
+  "Cotton fabric": {
+    "ingredients": {
+      "Cotton": 3
+    },
+    "time": 30,
+    "xp": 13,
+    "machine": "Loom"
+  },
+  "Hamburger": {
+    "ingredients": {
+      "Bacon": 2,
+      "Bread": 2
+    },
+    "time": 120,
+    "xp": 22,
+    "machine": "BBQ Grill"
+  },
+  "Raspberry": {
+    "ingredients": {},
+    "time": 1080,
+    "xp": 9,
+    "machine": "Raspberry bush"
+  },
+  "Raspberry muffin": {
+    "ingredients": {
+      "Egg": 1,
+      "Raspberry": 2,
+      "Wheat": 2
+    },
+    "time": 45,
+    "xp": 17,
+    "machine": "Bakery"
+  },
+  "Blue woolly hat": {
+    "ingredients": {
+      "Indigo": 1,
+      "Wool": 1
+    },
+    "time": 60,
+    "xp": 13,
+    "machine": "Loom"
+  },
+  "Cotton shirt": {
+    "ingredients": {
+      "Cotton fabric": 2
+    },
+    "time": 45,
+    "xp": 29,
+    "machine": "Sewing Machine"
+  },
+  "Blue sweater": {
+    "ingredients": {
+      "Indigo": 2,
+      "Wool": 2
+    },
+    "time": 180,
+    "xp": 25,
+    "machine": "Loom"
+  },
+  "Carrot cake": {
+    "ingredients": {
+      "Brown sugar": 1,
+      "Butter": 1,
+      "Carrot": 2
+    },
+    "time": 90,
+    "xp": 20,
+    "machine": "Cake Oven"
+  },
+  "Wooly chaps": {
+    "ingredients": {
+      "Cotton fabric": 1,
+      "Wool": 3
+    },
+    "time": 90,
+    "xp": 37,
+    "machine": "Sewing Machine"
+  },
+  "Cherry": {
+    "ingredients": {},
+    "time": 1620,
+    "xp": 13,
+    "machine": "Cherry tree"
+  },
+  "Cream cake": {
+    "ingredients": {
+      "Cream": 1,
+      "White sugar": 1,
+      "Wheat": 5
+    },
+    "time": 180,
+    "xp": 26,
+    "machine": "Cake Oven"
+  },
+  "Red berry cake": {
+    "ingredients": {
+      "Cherry": 2,
+      "Egg": 1,
+      "Milk": 1,
+      "Raspberry": 1
+    },
+    "time": 60,
+    "xp": 31,
+    "machine": "Cake Oven"
+  },
+  "Cheesecake": {
+    "ingredients": {
+      "Cheese": 1,
+      "Cookie": 1
+    },
+    "time": 240,
+    "xp": 34,
+    "machine": "Cake Oven"
+  },
+  "Silver ore": {
+    "ingredients": {},
+    "time": 0,
+    "xp": 5,
+    "machine": "Mine"
+  },
+  "Gold ore": {
+    "ingredients": {},
+    "time": 0,
+    "xp": 6,
+    "machine": "Mine"
+  },
+  "Platinum ore": {
+    "ingredients": {},
+    "time": 0,
+    "xp": 7,
+    "machine": "Mine"
+  },
+  "Silver bar": {
+    "ingredients": {
+      "Silver ore": 3
+    },
+    "time": 480,
+    "xp": 18,
+    "machine": "Smelter"
+  },
+  "Chili pepper": {
+    "ingredients": {
+      "Chili pepper": 1
+    },
+    "time": 240,
+    "xp": 7,
+    "machine": "Field"
+  },
+  "Chili popcorn": {
+    "ingredients": {
+      "Chili pepper": 2,
+      "Corn": 2
+    },
+    "time": 120,
+    "xp": 15,
+    "machine": "Popcorn Pot"
+  },
+  "Gold bar": {
+    "ingredients": {
+      "Gold ore": 3
+    },
+    "time": 720,
+    "xp": 21,
+    "machine": "Smelter"
+  },
+  "Platinum bar": {
+    "ingredients": {
+      "Platinum ore": 3
+    },
+    "time": 960,
+    "xp": 24,
+    "machine": "Smelter"
+  },
+  "Violet dress": {
+    "ingredients": {
+      "Cotton fabric": 2,
+      "Indigo": 1,
+      "Raspberry": 1
+    },
+    "time": 135,
+    "xp": 39,
+    "machine": "Sewing Machine"
+  },
+  "Blackberry": {
+    "ingredients": {},
+    "time": 1920,
+    "xp": 16,
+    "machine": "Blackberry bush"
+  },
+  "Blackberry muffin": {
+    "ingredients": {
+      "Blackberry": 2,
+      "Egg": 2,
+      "Wheat": 1
+    },
+    "time": 45,
+    "xp": 27,
+    "machine": "Bakery"
+  },
+  "Carrot juice": {
+    "ingredients": {
+      "Carrot": 3
+    },
+    "time": 30,
+    "xp": 6,
+    "machine": "Juice Press"
+  },
+  "Red lure": {
+    "ingredients": {},
+    "time": 90,
+    "xp": 1,
+    "machine": "Lure Workbench"
+  },
+  "Green lure": {
+    "ingredients": {
+      "Green voucher": 1
+    },
+    "time": 75,
+    "xp": 2,
+    "machine": "Lure Workbench"
+  },
+  "Blue lure": {
+    "ingredients": {
+      "Blue voucher": 1
+    },
+    "time": 60,
+    "xp": 3,
+    "machine": "Lure Workbench"
+  },
+  "Purple lure": {
+    "ingredients": {
+      "Purple voucher": 1
+    },
+    "time": 45,
+    "xp": 4,
+    "machine": "Lure Workbench"
+  },
+  "Gold lure": {
+    "ingredients": {
+      "Gold voucher": 1
+    },
+    "time": 30,
+    "xp": 5,
+    "machine": "Lure Workbench"
+  },
+  "Fish fillet": {
+    "ingredients": {
+      "Lure": 1
+    },
+    "time": 0,
+    "xp": 0,
+    "machine": "Fish"
+  },
+  "Fish burger": {
+    "ingredients": {
+      "Bread": 2,
+      "Chili pepper": 1,
+      "Fish fillet": 2
+    },
+    "time": 120,
+    "xp": 27,
+    "machine": "BBQ Grill"
+  },
+  "Apple pie": {
+    "ingredients": {
+      "Apple": 3,
+      "Egg": 1,
+      "Syrup": 1,
+      "Wheat": 2
+    },
+    "time": 150,
+    "xp": 32,
+    "machine": "Pie Oven"
+  },
+  "Fish pie": {
+    "ingredients": {
+      "Egg": 1,
+      "Fish fillet": 3,
+      "Wheat": 2
+    },
+    "time": 120,
+    "xp": 27,
+    "machine": "Pie Oven"
+  },
+  "Apple juice": {
+    "ingredients": {
+      "Apple": 2
+    },
+    "time": 120,
+    "xp": 15,
+    "machine": "Juice Press"
+  },
+  "Vanilla ice cream": {
+    "ingredients": {
+      "Cream": 1,
+      "Milk": 1,
+      "White sugar": 1
+    },
+    "time": 120,
+    "xp": 20,
+    "machine": "Ice Cream Maker"
+  },
+  "Tomato": {
+    "ingredients": {
+      "Tomato": 1
+    },
+    "time": 360,
+    "xp": 8,
+    "machine": "Field"
+  },
+  "Roasted tomatoes": {
+    "ingredients": {
+      "Tomato": 2
+    },
+    "time": 90,
+    "xp": 14,
+    "machine": "BBQ Grill"
+  },
+  "Cherry juice": {
+    "ingredients": {
+      "Cherry": 2
+    },
+    "time": 150,
+    "xp": 26,
+    "machine": "Juice Press"
+  },
+  "Fishing net": {
+    "ingredients": {},
+    "time": 240,
+    "xp": 7,
+    "machine": "Net Maker"
+  },
+  "Mystery net": {
+    "ingredients": {
+      "Diamond": 5
+    },
+    "time": 180,
+    "xp": 7,
+    "machine": "Net Maker"
+  },
+  "Blueberries": {
+    "ingredients": {},
+    "time": 2040,
+    "xp": 16,
+    "machine": "Blueberry bush"
+  },
+  "Tomato juice": {
+    "ingredients": {
+      "Tomato": 3
+    },
+    "time": 90,
+    "xp": 19,
+    "machine": "Juice Press"
+  },
+  "Berry juice": {
+    "ingredients": {
+      "Blackberry": 1,
+      "Raspberry": 1
+    },
+    "time": 180,
+    "xp": 24,
+    "machine": "Juice Press"
+  },
+  "Goat feed": {
+    "ingredients": {
+      "Carrot": 2,
+      "Corn": 1,
+      "Wheat": 1
+    },
+    "time": 40,
+    "xp": 3,
+    "machine": "Feed Mill"
+  },
+  "Goat milk": {
+    "ingredients": {
+      "Goat feed": 1
+    },
+    "time": 480,
+    "xp": 6,
+    "machine": "Goat"
+  },
+  "Goat cheese": {
+    "ingredients": {
+      "Goat milk": 2
+    },
+    "time": 90,
+    "xp": 19,
+    "machine": "Dairy"
+  },
+  "Pizza": {
+    "ingredients": {
+      "Cheese": 1,
+      "Tomato": 1,
+      "Wheat": 2
+    },
+    "time": 15,
+    "xp": 23,
+    "machine": "Bakery"
+  },
+  "Coal": {
+    "ingredients": {},
+    "time": 0,
+    "xp": 3,
+    "machine": "Mine"
+  },
+  "Refined coal": {
+    "ingredients": {
+      "Coal": 3
+    },
+    "time": 360,
+    "xp": 13,
+    "machine": "Smelter"
+  },
+  "Cherry popsicle": {
+    "ingredients": {
+      "Cherry juice": 1,
+      "Syrup": 1
+    },
+    "time": 180,
+    "xp": 42,
+    "machine": "Ice Cream Maker"
+  },
+  "Strawberry": {
+    "ingredients": {
+      "Strawberry": 1
+    },
+    "time": 480,
+    "xp": 10,
+    "machine": "Field"
+  },
+  "Feta pie": {
+    "ingredients": {
+      "Egg": 1,
+      "Goat cheese": 1,
+      "Wheat": 2
+    },
+    "time": 90,
+    "xp": 26,
+    "machine": "Pie Oven"
+  },
+  "Iron ore": {
+    "ingredients": {},
+    "time": 0,
+    "xp": 4,
+    "machine": "Mine"
+  },
+  "Iron bar": {
+    "ingredients": {
+      "Iron ore": 3
+    },
+    "time": 420,
+    "xp": 15,
+    "machine": "Smelter"
+  },
+  "Strawberry ice cream": {
+    "ingredients": {
+      "Cream": 1,
+      "Milk": 1,
+      "Strawberry": 3,
+      "White sugar": 1
+    },
+    "time": 240,
+    "xp": 40,
+    "machine": "Ice Cream Maker"
+  },
+  "Wheat bundle": {
+    "ingredients": {
+      "Wheat": 75
+    },
+    "time": 90,
+    "xp": 10,
+    "machine": "Feed Mill"
+  },
+  "Meat bucket": {
+    "ingredients": {
+      "Fish fillet": 3,
+      "Carrot": 5
+    },
+    "time": 45,
+    "xp": 15,
+    "machine": "Feed Mill"
+  },
+  "Potato": {
+    "ingredients": {
+      "Potato": 1
+    },
+    "time": 220,
+    "xp": 7,
+    "machine": "Field"
+  },
+  "Strawberry cake": {
+    "ingredients": {
+      "Cream": 1,
+      "Strawberry": 2,
+      "Wheat": 3,
+      "White sugar": 1
+    },
+    "time": 180,
+    "xp": 38,
+    "machine": "Cake Oven"
+  },
+  "Baked potato": {
+    "ingredients": {
+      "Cheese": 1,
+      "Chili pepper": 1,
+      "Cream": 1,
+      "Potato": 2
+    },
+    "time": 35,
+    "xp": 36,
+    "machine": "BBQ Grill"
+  },
+  "Apple jam": {
+    "ingredients": {
+      "Apple": 3
+    },
+    "time": 360,
+    "xp": 26,
+    "machine": "Jam Maker"
+  },
+  "Chocolate cake": {
+    "ingredients": {
+      "Brown sugar": 1,
+      "Butter": 1,
+      "Cacao": 2
+    },
+    "time": 120,
+    "xp": 38,
+    "machine": "Cake Oven"
+  },
+  "Casserole": {
+    "ingredients": {
+      "Bacon": 2,
+      "Cheese": 1,
+      "Egg": 2,
+      "Potato": 2
+    },
+    "time": 120,
+    "xp": 44,
+    "machine": "Pie Oven"
+  },
+  "Cacao": {
+    "ingredients": {},
+    "time": 2040,
+    "xp": 16,
+    "machine": "Cacao tree"
+  },
+  "Raspberry jam": {
+    "ingredients": {
+      "Raspberry": 3
+    },
+    "time": 420,
+    "xp": 30,
+    "machine": "Jam Maker"
+  },
+  "Spicy pizza": {
+    "ingredients": {
+      "Cheese": 1,
+      "Chili pepper": 1,
+      "Tomato": 1,
+      "Wheat": 2
+    },
+    "time": 15,
+    "xp": 27,
+    "machine": "Bakery"
+  },
+  "Blackberry jam": {
+    "ingredients": {
+      "Blackberry": 3
+    },
+    "time": 480,
+    "xp": 46,
+    "machine": "Jam Maker"
+  },
+  "Potato feta cake": {
+    "ingredients": {
+      "Egg": 4,
+      "Goat cheese": 1,
+      "Potato": 1
+    },
+    "time": 120,
+    "xp": 37,
+    "machine": "Cake Oven"
+  },
+  "Cherry jam": {
+    "ingredients": {
+      "Cherry": 3
+    },
+    "time": 420,
+    "xp": 40,
+    "machine": "Jam Maker"
+  },
+  "Bracelet": {
+    "ingredients": {
+      "Gold bar": 1,
+      "Silver bar": 2
+    },
+    "time": 120,
+    "xp": 61,
+    "machine": "Jeweler"
+  },
+  "Potato bread": {
+    "ingredients": {
+      "Butter": 1,
+      "Egg": 3,
+      "Potato": 2,
+      "White sugar": 1
+    },
+    "time": 45,
+    "xp": 34,
+    "machine": "Bakery"
+  },
+  "Shepherd's pie": {
+    "ingredients": {
+      "Bacon": 2,
+      "Carrot": 2,
+      "Potato": 2,
+      "Pumpkin": 2
+    },
+    "time": 100,
+    "xp": 34,
+    "machine": "Pie Oven"
+  },
+  "Chocolate ice cream": {
+    "ingredients": {
+      "Cream": 1,
+      "Cacao": 2,
+      "Milk": 1,
+      "White sugar": 1
+    },
+    "time": 150,
+    "xp": 41,
+    "machine": "Ice Cream Maker"
+  },
+  "Honeycomb": {
+    "ingredients": {},
+    "time": 0,
+    "xp": 8,
+    "machine": "Beehive tree"
+  },
+  "Necklace": {
+    "ingredients": {
+      "Gold bar": 1,
+      "Platinum bar": 1,
+      "Silver bar": 2
+    },
+    "time": 180,
+    "xp": 87,
+    "machine": "Jeweler"
+  },
+  "Honey": {
+    "ingredients": {
+      "Honeycomb": 2
+    },
+    "time": 20,
+    "xp": 19,
+    "machine": "Honey Extractor"
+  },
+  "Honey popcorn": {
+    "ingredients": {
+      "Corn": 2,
+      "Honey": 2
+    },
+    "time": 90,
+    "xp": 43,
+    "machine": "Popcorn Pot"
+  },
+  "Diamond ring": {
+    "ingredients": {
+      "Diamond": 1,
+      "Gold bar": 2,
+      "Platinum bar": 2
+    },
+    "time": 240,
+    "xp": 98,
+    "machine": "Jeweler"
+  },
+  "Fish and chips": {
+    "ingredients": {
+      "Fish fillet": 2,
+      "Potato": 3
+    },
+    "time": 90,
+    "xp": 29,
+    "machine": "BBQ Grill"
+  },
+  "Iron bracelet": {
+    "ingredients": {
+      "Iron bar": 2,
+      "Refined coal": 2,
+      "Silver bar": 1
+    },
+    "time": 90,
+    "xp": 79,
+    "machine": "Jeweler"
+  },
+  "Coffee bean": {
+    "ingredients": {},
+    "time": 1500,
+    "xp": 12,
+    "machine": "Coffee bush"
+  },
+  "Espresso": {
+    "ingredients": {
+      "Coffee bean": 3,
+      "White sugar": 1
+    },
+    "time": 5,
+    "xp": 29,
+    "machine": "Coffee Kiosk"
+  },
+  "Honey apple cake": {
+    "ingredients": {
+      "Apple": 2,
+      "Egg": 2,
+      "Honey": 2,
+      "Wheat": 2
+    },
+    "time": 200,
+    "xp": 57,
+    "machine": "Cake Oven"
+  },
+  "Caff\u00e8 latte": {
+    "ingredients": {
+      "Coffee bean": 2,
+      "Milk": 1,
+      "White sugar": 1
+    },
+    "time": 10,
+    "xp": 26,
+    "machine": "Coffee Kiosk"
+  },
+  "Chocolate popcorn": {
+    "ingredients": {
+      "Cacao": 2,
+      "Corn": 2
+    },
+    "time": 150,
+    "xp": 29,
+    "machine": "Popcorn Pot"
+  },
+  "Lobster trap": {
+    "ingredients": {},
+    "time": 120,
+    "xp": 5,
+    "machine": "Net Maker"
+  },
+  "Lobster tail": {
+    "ingredients": {
+      "Lobster": 1
+    },
+    "time": 360,
+    "xp": 24,
+    "machine": "Lobster Pool"
+  },
+  "Frutti di Mare pizza": {
+    "ingredients": {
+      "Cheese": 1,
+      "Fish fillet": 1,
+      "Lobster tail": 1,
+      "Wheat": 2
+    },
+    "time": 15,
+    "xp": 48,
+    "machine": "Bakery"
+  },
+  "Caff\u00e8 mocha": {
+    "ingredients": {
+      "Coffee bean": 1,
+      "Cream": 1,
+      "Cacao": 2
+    },
+    "time": 15,
+    "xp": 35,
+    "machine": "Coffee Kiosk"
+  },
+  "Chamomile": {
+    "ingredients": {
+      "Chamomile": 1
+    },
+    "time": 20,
+    "xp": 2,
+    "machine": "Field"
+  },
+  "Soothing pad": {
+    "ingredients": {
+      "Cotton fabric": 2,
+      "Wheat": 5,
+      "Chamomile": 5
+    },
+    "time": 60,
+    "xp": 39,
+    "machine": "Sewing Machine"
+  },
+  "Raspberry mocha": {
+    "ingredients": {
+      "Cacao": 1,
+      "Coffee bean": 1,
+      "Cream": 1,
+      "Raspberry": 1
+    },
+    "time": 30,
+    "xp": 31,
+    "machine": "Coffee Kiosk"
+  },
+  "Lobster soup": {
+    "ingredients": {
+      "Chili pepper": 2,
+      "Cream": 1,
+      "Lobster tail": 2,
+      "Tomato": 1
+    },
+    "time": 150,
+    "xp": 73,
+    "machine": "Soup Kitchen"
+  },
+  "Hot chocolate": {
+    "ingredients": {
+      "Cacao": 2,
+      "Cream": 1,
+      "Milk": 1,
+      "White sugar": 1
+    },
+    "time": 25,
+    "xp": 38,
+    "machine": "Coffee Kiosk"
+  },
+  "Tomato soup": {
+    "ingredients": {
+      "Chili pepper": 1,
+      "Goat cheese": 1,
+      "Tomato juice": 1,
+      "Tomato": 2
+    },
+    "time": 90,
+    "xp": 57,
+    "machine": "Soup Kitchen"
+  },
+  "Red scarf": {
+    "ingredients": {
+      "Strawberry": 2,
+      "Wool": 2
+    },
+    "time": 150,
+    "xp": 34,
+    "machine": "Loom"
+  },
+  "Lobster skewer": {
+    "ingredients": {
+      "Chili pepper": 1,
+      "Honey": 1,
+      "Lobster tail": 1
+    },
+    "time": 40,
+    "xp": 50,
+    "machine": "BBQ Grill"
+  },
+  "Beeswax": {
+    "ingredients": {
+      "Honeycomb": 3
+    },
+    "time": 45,
+    "xp": 28,
+    "machine": "Honey Extractor"
+  },
+  "Strawberry candle": {
+    "ingredients": {
+      "Beeswax": 1,
+      "Strawberry": 2
+    },
+    "time": 120,
+    "xp": 44,
+    "machine": "Candle Maker"
+  },
+  "Rustic bouquet": {
+    "ingredients": {
+      "Wheat": 5,
+      "Indigo": 3,
+      "Cotton": 3
+    },
+    "time": 45,
+    "xp": 25,
+    "machine": "Flower Shop"
+  },
+  "Pumpkin soup": {
+    "ingredients": {
+      "Butter": 1,
+      "Carrot": 2,
+      "Honey": 1,
+      "Pumpkin": 3
+    },
+    "time": 120,
+    "xp": 47,
+    "machine": "Soup Kitchen"
+  },
+  "Asparagus": {
+    "ingredients": {
+      "Asparagus": 1
+    },
+    "time": 360,
+    "xp": 8,
+    "machine": "Field"
+  },
+  "Asparagus quiche": {
+    "ingredients": {
+      "Asparagus": 2,
+      "Egg": 2,
+      "Cheese": 1,
+      "Wheat": 4
+    },
+    "time": 120,
+    "xp": 36,
+    "machine": "Pie Oven"
+  },
+  "Strawberry jam": {
+    "ingredients": {
+      "Strawberry": 3
+    },
+    "time": 450,
+    "xp": 32,
+    "machine": "Jam Maker"
+  },
+  "Duck trap": {
+    "ingredients": {},
+    "time": 60,
+    "xp": 3,
+    "machine": "Net Maker"
+  },
+  "Duck feather": {
+    "ingredients": {
+      "Duck": 1
+    },
+    "time": 180,
+    "xp": 17,
+    "machine": "Duck Salon"
+  },
+  "Sesame": {
+    "ingredients": {
+      "Sesame": 1
+    },
+    "time": 60,
+    "xp": 4,
+    "machine": "Field"
+  },
+  "Sesame ice cream": {
+    "ingredients": {
+      "Cream": 1,
+      "Sesame": 3,
+      "Brown sugar": 1
+    },
+    "time": 120,
+    "xp": 21,
+    "machine": "Ice Cream Maker"
+  },
+  "Caramel apple": {
+    "ingredients": {
+      "Apple": 1,
+      "Syrup": 2
+    },
+    "time": 120,
+    "xp": 31,
+    "machine": "Candy Machine"
+  },
+  "Pillow": {
+    "ingredients": {
+      "Cotton fabric": 2,
+      "Duck feather": 3
+    },
+    "time": 180,
+    "xp": 81,
+    "machine": "Sewing Machine"
+  },
+  "Asparagus soup": {
+    "ingredients": {
+      "Asparagus": 3,
+      "Cream": 2
+    },
+    "time": 60,
+    "xp": 30,
+    "machine": "Soup Kitchen"
+  },
+  "Toffee": {
+    "ingredients": {
+      "Butter": 1,
+      "Wheat": 1,
+      "White sugar": 1
+    },
+    "time": 90,
+    "xp": 21,
+    "machine": "Candy Machine"
+  },
+  "Raspberry candle": {
+    "ingredients": {
+      "Beeswax": 1,
+      "Raspberry": 2
+    },
+    "time": 105,
+    "xp": 43,
+    "machine": "Candle Maker"
+  },
+  "Pineapple": {
+    "ingredients": {
+      "Pineapple": 1
+    },
+    "time": 30,
+    "xp": 3,
+    "machine": "Field"
+  },
+  "Pineapple juice": {
+    "ingredients": {
+      "Pineapple": 3
+    },
+    "time": 45,
+    "xp": 8,
+    "machine": "Juice Press"
+  },
+  "Fish soup": {
+    "ingredients": {
+      "Carrot": 1,
+      "Fish fillet": 2,
+      "Milk": 1,
+      "Potato": 3
+    },
+    "time": 180,
+    "xp": 35,
+    "machine": "Soup Kitchen"
+  },
+  "Lily": {
+    "ingredients": {
+      "Lily": 1
+    },
+    "time": 90,
+    "xp": 5,
+    "machine": "Field"
+  },
+  "Soy sauce": {
+    "ingredients": {
+      "Soybean": 9,
+      "Wheat": 1
+    },
+    "time": 180,
+    "xp": 19,
+    "machine": "Sauce Maker"
+  },
+  "Chocolate": {
+    "ingredients": {
+      "Cacao": 3,
+      "Cream": 1,
+      "White sugar": 1
+    },
+    "time": 1200,
+    "xp": 55,
+    "machine": "Candy Machine"
+  },
+  "Fancy cake": {
+    "ingredients": {
+      "Cream cake": 1,
+      "Lily": 3,
+      "Raspberry": 3,
+      "Gold ore": 1
+    },
+    "time": 15,
+    "xp": 49,
+    "machine": "Cake Oven"
+  },
+  "Rice": {
+    "ingredients": {
+      "Rice": 1
+    },
+    "time": 45,
+    "xp": 3,
+    "machine": "Field"
+  },
+  "Sushi roll": {
+    "ingredients": {
+      "Fish fillet": 1,
+      "Rice": 15,
+      "Soy sauce": 1
+    },
+    "time": 60,
+    "xp": 58,
+    "machine": "Sushi Bar"
+  },
+  "Olive": {
+    "ingredients": {},
+    "time": 1440,
+    "xp": 17,
+    "machine": "Olive Tree"
+  },
+  "Lollipop": {
+    "ingredients": {
+      "Cherry": 1,
+      "Strawberry": 2,
+      "Syrup": 1
+    },
+    "time": 720,
+    "xp": 41,
+    "machine": "Candy Machine"
+  },
+  "Lettuce": {
+    "ingredients": {
+      "Lettuce": 1
+    },
+    "time": 210,
+    "xp": 7,
+    "machine": "Field"
+  },
+  "Feta salad": {
+    "ingredients": {
+      "Goat cheese": 2,
+      "Lettuce": 3,
+      "Olive": 2,
+      "Roasted tomatoes": 1
+    },
+    "time": 90,
+    "xp": 89,
+    "machine": "Salad Bar"
+  },
+  "Lobster sushi": {
+    "ingredients": {
+      "Lobster tail": 1,
+      "Rice": 15,
+      "Soy sauce": 1
+    },
+    "time": 60,
+    "xp": 76,
+    "machine": "Sushi Bar"
+  },
+  "Blanket": {
+    "ingredients": {
+      "Cotton fabric": 3,
+      "Duck feather": 5,
+      "Pumpkin": 1
+    },
+    "time": 210,
+    "xp": 131,
+    "machine": "Sewing Machine"
+  },
+  "Jelly beans": {
+    "ingredients": {
+      "Blackberry jam": 1,
+      "Raspberry jam": 1,
+      "White sugar": 1
+    },
+    "time": 1440,
+    "xp": 81,
+    "machine": "Candy Machine"
+  },
+  "Olive oil": {
+    "ingredients": {
+      "Olive": 3
+    },
+    "time": 45,
+    "xp": 33,
+    "machine": "Sauce Maker"
+  },
+  "Garlic": {
+    "ingredients": {
+      "Garlic": 1
+    },
+    "time": 30,
+    "xp": 3,
+    "machine": "Field"
+  },
+  "Garlic bread": {
+    "ingredients": {
+      "Bread": 2,
+      "Butter": 1,
+      "Garlic": 4
+    },
+    "time": 15,
+    "xp": 24,
+    "machine": "BBQ Grill"
+  },
+  "Veggie bagel": {
+    "ingredients": {
+      "Bread": 2,
+      "Lettuce": 3,
+      "Olive oil": 1,
+      "Tomato": 2
+    },
+    "time": 40,
+    "xp": 63,
+    "machine": "Sandwich Bar"
+  },
+  "Mayonnaise": {
+    "ingredients": {
+      "Egg": 4,
+      "Olive oil": 1
+    },
+    "time": 15,
+    "xp": 44,
+    "machine": "Sauce Maker"
+  },
+  "BLT salad": {
+    "ingredients": {
+      "Bacon": 2,
+      "Lettuce": 3,
+      "Mayonnaise": 1,
+      "Roasted tomatoes": 1
+    },
+    "time": 105,
+    "xp": 86,
+    "machine": "Salad Bar"
+  },
+  "Caramel latte": {
+    "ingredients": {
+      "Coffee bean": 2,
+      "Toffee": 1,
+      "Milk": 1
+    },
+    "time": 15,
+    "xp": 41,
+    "machine": "Coffee Kiosk"
+  },
+  "Peanuts": {
+    "ingredients": {},
+    "time": 0,
+    "xp": 43,
+    "machine": "Squirrel House"
+  },
+  "Sunflower": {
+    "ingredients": {
+      "Sunflower": 1
+    },
+    "time": 90,
+    "xp": 5,
+    "machine": "Field"
+  },
+  "Egg sushi": {
+    "ingredients": {
+      "Brown sugar": 1,
+      "Egg": 4,
+      "Rice": 15,
+      "Soy sauce": 1
+    },
+    "time": 120,
+    "xp": 66,
+    "machine": "Sushi Bar"
+  },
+  "Honey peanuts": {
+    "ingredients": {
+      "Honey": 1,
+      "Peanuts": 1
+    },
+    "time": 40,
+    "xp": 64,
+    "machine": "Candy Machine"
+  },
+  "Seafood salad": {
+    "ingredients": {
+      "Fish fillet": 1,
+      "Lettuce": 3,
+      "Lobster tail": 1,
+      "Mayonnaise": 1
+    },
+    "time": 120,
+    "xp": 91,
+    "machine": "Salad Bar"
+  },
+  "Berry smoothie": {
+    "ingredients": {
+      "Blackberry": 3,
+      "Strawberry": 3,
+      "Raspberry": 3
+    },
+    "time": 75,
+    "xp": 65,
+    "machine": "Smoothie Mixer"
+  },
+  "Snack mix": {
+    "ingredients": {
+      "Corn": 2,
+      "Sesame": 1,
+      "Peanuts": 1
+    },
+    "time": 45,
+    "xp": 50,
+    "machine": "Popcorn Pot"
+  },
+  "Bright bouquet": {
+    "ingredients": {
+      "Sunflower": 5,
+      "Indigo": 3,
+      "Cotton": 1,
+      "Iron ore": 5
+    },
+    "time": 20,
+    "xp": 40,
+    "machine": "Flower Shop"
+  },
+  "Bacon toast": {
+    "ingredients": {
+      "Bacon": 2,
+      "Bread": 2,
+      "Lettuce": 3,
+      "Mayonnaise": 1
+    },
+    "time": 100,
+    "xp": 77,
+    "machine": "Sandwich Bar"
+  },
+  "Pineapple cake": {
+    "ingredients": {
+      "Pineapple": 3,
+      "Egg": 2,
+      "Cherry": 2,
+      "Wheat": 4
+    },
+    "time": 75,
+    "xp": 31,
+    "machine": "Cake Oven"
+  },
+  "Chocolate pie": {
+    "ingredients": {
+      "Wheat": 3,
+      "Cacao": 3,
+      "Egg": 1,
+      "Peanuts": 1
+    },
+    "time": 75,
+    "xp": 70,
+    "machine": "Pie Oven"
+  },
+  "Cabbage": {
+    "ingredients": {
+      "Cabbage": 1
+    },
+    "time": 45,
+    "xp": 3,
+    "machine": "Field"
+  },
+  "Cabbage soup": {
+    "ingredients": {
+      "Cabbage": 3,
+      "Bacon": 2,
+      "Potato": 2,
+      "Carrot": 2
+    },
+    "time": 90,
+    "xp": 32,
+    "machine": "Soup Kitchen"
+  },
+  "Lemon": {
+    "ingredients": {},
+    "time": 1740,
+    "xp": 18,
+    "machine": "Lemon tree"
+  },
+  "Lemon curd": {
+    "ingredients": {
+      "Butter": 1,
+      "Egg": 2,
+      "Lemon": 2,
+      "White sugar": 1
+    },
+    "time": 25,
+    "xp": 45,
+    "machine": "Sauce Maker"
+  },
+  "Olive dip": {
+    "ingredients": {
+      "Olive": 3,
+      "Bread": 2,
+      "Lemon": 1,
+      "Fish fillet": 1
+    },
+    "time": 45,
+    "xp": 56,
+    "machine": "Sauce Maker"
+  },
+  "Egg sandwich": {
+    "ingredients": {
+      "Bread": 2,
+      "Egg": 2,
+      "Lettuce": 3,
+      "Mayonnaise": 1
+    },
+    "time": 80,
+    "xp": 69,
+    "machine": "Sandwich Bar"
+  },
+  "Green smoothie": {
+    "ingredients": {
+      "Apple": 1,
+      "Lemon": 1,
+      "Lettuce": 5
+    },
+    "time": 45,
+    "xp": 38,
+    "machine": "Smoothie Mixer"
+  },
+  "Fresh pasta": {
+    "ingredients": {
+      "Egg": 1,
+      "Wheat": 2
+    },
+    "time": 15,
+    "xp": 5,
+    "machine": "Pasta Maker"
+  },
+  "Pasta salad": {
+    "ingredients": {
+      "Fresh pasta": 4,
+      "Lemon": 2,
+      "Olive oil": 1,
+      "Tomato": 2
+    },
+    "time": 150,
+    "xp": 90,
+    "machine": "Salad Bar"
+  },
+  "Lemon pie": {
+    "ingredients": {
+      "Egg": 1,
+      "Lemon curd": 1,
+      "Wheat": 2
+    },
+    "time": 135,
+    "xp": 53,
+    "machine": "Pie Oven"
+  },
+  "Grilled asparagus": {
+    "ingredients": {
+      "Asparagus": 5,
+      "Bacon": 3,
+      "Lemon": 1
+    },
+    "time": 75,
+    "xp": 58,
+    "machine": "BBQ Grill"
+  },
+  "Onion": {
+    "ingredients": {
+      "Onion": 1
+    },
+    "time": 300,
+    "xp": 8,
+    "machine": "Field"
+  },
+  "Grilled onion": {
+    "ingredients": {
+      "Butter": 1,
+      "Onion": 2
+    },
+    "time": 60,
+    "xp": 23,
+    "machine": "BBQ Grill"
+  },
+  "Lemon cake": {
+    "ingredients": {
+      "Cream": 1,
+      "Egg": 2,
+      "Lemon curd": 2,
+      "Wheat": 3
+    },
+    "time": 150,
+    "xp": 107,
+    "machine": "Cake Oven"
+  },
+  "Lemon essential oil": {
+    "ingredients": {
+      "Lemon": 3
+    },
+    "time": 10,
+    "xp": 34,
+    "machine": "Essential Oils Lab"
+  },
+  "Peanut butter milkshake": {
+    "ingredients": {
+      "Peanuts": 1,
+      "Milk": 1,
+      "Cream": 1,
+      "Cacao": 3
+    },
+    "time": 100,
+    "xp": 86,
+    "machine": "Ice Cream Maker"
+  },
+  "Tomato sauce": {
+    "ingredients": {
+      "Brown sugar": 1,
+      "Lemon": 1,
+      "Tomato": 2
+    },
+    "time": 30,
+    "xp": 27,
+    "machine": "Sauce Maker"
+  },
+  "Honey toast": {
+    "ingredients": {
+      "Bread": 1,
+      "Egg": 1,
+      "Honey": 1,
+      "Milk": 1
+    },
+    "time": 60,
+    "xp": 31,
+    "machine": "Sandwich Bar"
+  },
+  "Fried rice": {
+    "ingredients": {
+      "Rice": 5,
+      "Egg": 5
+    },
+    "time": 60,
+    "xp": 24,
+    "machine": "Wok Kitchen"
+  },
+  "Yogurt smoothie": {
+    "ingredients": {
+      "Cherry": 1,
+      "Cream": 1,
+      "Raspberry": 2,
+      "White sugar": 1
+    },
+    "time": 60,
+    "xp": 42,
+    "machine": "Smoothie Mixer"
+  },
+  "Cloche hat": {
+    "ingredients": {
+      "Strawberry": 2,
+      "Wool": 6
+    },
+    "time": 120,
+    "xp": 56,
+    "machine": "Hat Maker"
+  },
+  "Cucumber": {
+    "ingredients": {
+      "Cucumber": 1
+    },
+    "time": 35,
+    "xp": 3,
+    "machine": "Field"
+  },
+  "Cucumber smoothie": {
+    "ingredients": {
+      "Cucumber": 3,
+      "Honey": 1,
+      "Pineapple": 3
+    },
+    "time": 40,
+    "xp": 32,
+    "machine": "Smoothie Mixer"
+  },
+  "Orange": {
+    "ingredients": {},
+    "time": 1860,
+    "xp": 19,
+    "machine": "Orange tree"
+  },
+  "Flower shawl": {
+    "ingredients": {
+      "Wool": 2,
+      "Sunflower": 3,
+      "Blackberry": 1
+    },
+    "time": 90,
+    "xp": 35,
+    "machine": "Loom"
+  },
+  "Orange juice": {
+    "ingredients": {
+      "Orange": 2
+    },
+    "time": 120,
+    "xp": 28,
+    "machine": "Juice Press"
+  },
+  "Peanut butter and jelly sandwich": {
+    "ingredients": {
+      "Bread": 2,
+      "Raspberry jam": 1,
+      "Peanuts": 1
+    },
+    "time": 25,
+    "xp": 80,
+    "machine": "Sandwich Bar"
+  },
+  "Onion soup": {
+    "ingredients": {
+      "Bread": 2,
+      "Cheese": 1,
+      "Onion": 3
+    },
+    "time": 150,
+    "xp": 39,
+    "machine": "Soup Kitchen"
+  },
+  "Lemon candle": {
+    "ingredients": {
+      "Beeswax": 1,
+      "Lemon": 2
+    },
+    "time": 135,
+    "xp": 55,
+    "machine": "Candle Maker"
+  },
+  "Top hat": {
+    "ingredients": {
+      "Cotton fabric": 3,
+      "Duck feather": 1,
+      "Refined coal": 1
+    },
+    "time": 210,
+    "xp": 74,
+    "machine": "Hat Maker"
+  },
+  "Gnocchi": {
+    "ingredients": {
+      "Potato": 4,
+      "Tomato": 3,
+      "Wheat": 2,
+      "Butter": 2
+    },
+    "time": 80,
+    "xp": 57,
+    "machine": "Pasta Kitchen"
+  },
+  "Beetroot": {
+    "ingredients": {
+      "Beetroot": 1
+    },
+    "time": 40,
+    "xp": 3,
+    "machine": "Field"
+  },
+  "Winter veggies": {
+    "ingredients": {
+      "Beetroot": 2,
+      "Carrot": 3,
+      "Potato": 2,
+      "Pumpkin": 2
+    },
+    "time": 25,
+    "xp": 24,
+    "machine": "BBQ Grill"
+  },
+  "Rice noodles": {
+    "ingredients": {
+      "Rice": 5
+    },
+    "time": 20,
+    "xp": 12,
+    "machine": "Pasta Maker"
+  },
+  "Noodle soup": {
+    "ingredients": {
+      "Carrot": 2,
+      "Chili pepper": 1,
+      "Egg": 2,
+      "Rice noodles": 3
+    },
+    "time": 120,
+    "xp": 52,
+    "machine": "Soup Kitchen"
+  },
+  "Gracious bouquet": {
+    "ingredients": {
+      "Cotton fabric": 1,
+      "Lily": 5,
+      "Gold ore": 1,
+      "Diamond": 1
+    },
+    "time": 40,
+    "xp": 60,
+    "machine": "Flower Shop"
+  },
+  "Bell pepper": {
+    "ingredients": {
+      "Bell pepper": 1
+    },
+    "time": 270,
+    "xp": 7,
+    "machine": "Field"
+  },
+  "Marmalade": {
+    "ingredients": {
+      "Orange": 3
+    },
+    "time": 510,
+    "xp": 54,
+    "machine": "Jam Maker"
+  },
+  "Sun hat": {
+    "ingredients": {
+      "Duck feather": 2,
+      "Indigo": 1,
+      "Raspberry": 1,
+      "Wool": 3
+    },
+    "time": 150,
+    "xp": 66,
+    "machine": "Hat Maker"
+  },
+  "Veggie lasagna": {
+    "ingredients": {
+      "Tomato sauce": 1,
+      "Fresh pasta": 3,
+      "Carrot": 1,
+      "Cheese": 1
+    },
+    "time": 100,
+    "xp": 63,
+    "machine": "Pasta Kitchen"
+  },
+  "Veggie platter": {
+    "ingredients": {
+      "Bell pepper": 2,
+      "Carrot": 2,
+      "Tomato": 2,
+      "Cream": 1
+    },
+    "time": 120,
+    "xp": 32,
+    "machine": "Salad Bar"
+  },
+  "Chamomile essential oil": {
+    "ingredients": {
+      "Chamomile": 5
+    },
+    "time": 10,
+    "xp": 8,
+    "machine": "Essential Oils Lab"
+  },
+  "Hot dog": {
+    "ingredients": {
+      "Bacon": 2,
+      "Bread": 1,
+      "Tomato sauce": 1
+    },
+    "time": 30,
+    "xp": 44,
+    "machine": "Hot Dog Stand"
+  },
+  "Coleslaw": {
+    "ingredients": {
+      "Cabbage": 3,
+      "Carrot": 2,
+      "Mayonnaise": 1
+    },
+    "time": 75,
+    "xp": 56,
+    "machine": "Salad Bar"
+  },
+  "Cotton candy": {
+    "ingredients": {
+      "White sugar": 3,
+      "Strawberry": 1
+    },
+    "time": 30,
+    "xp": 27,
+    "machine": "Candy Machine"
+  },
+  "Peach": {
+    "ingredients": {},
+    "time": 1800,
+    "xp": 20,
+    "machine": "Peach tree"
+  },
+  "Peach tart": {
+    "ingredients": {
+      "Cream": 1,
+      "Egg": 2,
+      "Peach": 3,
+      "Wheat": 2
+    },
+    "time": 150,
+    "xp": 52,
+    "machine": "Pie Oven"
+  },
+  "Tofu dog": {
+    "ingredients": {
+      "Lettuce": 3,
+      "Soybean": 6,
+      "Tomato": 4
+    },
+    "time": 45,
+    "xp": 44,
+    "machine": "Hot Dog Stand"
+  },
+  "Big sushi roll": {
+    "ingredients": {
+      "Lettuce": 5,
+      "Rice": 20,
+      "Fish fillet": 1,
+      "Egg": 3
+    },
+    "time": 90,
+    "xp": 77,
+    "machine": "Sushi Bar"
+  },
+  "Beetroot salad": {
+    "ingredients": {
+      "Beetroot": 3,
+      "Goat cheese": 1
+    },
+    "time": 45,
+    "xp": 28,
+    "machine": "Salad Bar"
+  },
+  "Plain donut": {
+    "ingredients": {
+      "Milk": 1,
+      "White sugar": 1,
+      "Egg": 1,
+      "Wheat": 3
+    },
+    "time": 15,
+    "xp": 15,
+    "machine": "Donut Maker"
+  },
+  "Salsa": {
+    "ingredients": {
+      "Chili pepper": 2,
+      "Onion": 2,
+      "Tomato": 2
+    },
+    "time": 20,
+    "xp": 30,
+    "machine": "Sauce Maker"
+  },
+  "Taco": {
+    "ingredients": {
+      "Corn bread": 1,
+      "Bacon": 1,
+      "Salsa": 1
+    },
+    "time": 45,
+    "xp": 47,
+    "machine": "Taco Kitchen"
+  },
+  "Colourful omelet": {
+    "ingredients": {
+      "Egg": 2,
+      "Carrot": 2,
+      "Bell pepper": 1,
+      "Cabbage": 1
+    },
+    "time": 60,
+    "xp": 16,
+    "machine": "Omelet Station"
+  },
+  "Spring omelet": {
+    "ingredients": {
+      "Egg": 2,
+      "Asparagus": 2,
+      "Butter": 1
+    },
+    "time": 40,
+    "xp": 27,
+    "machine": "Omelet Station"
+  },
+  "Summer rolls": {
+    "ingredients": {
+      "Rice noodles": 2,
+      "Carrot": 2,
+      "Lettuce": 1,
+      "Chili pepper": 1
+    },
+    "time": 60,
+    "xp": 38,
+    "machine": "Salad Bar"
+  },
+  "Orange sorbet": {
+    "ingredients": {
+      "Honey": 1,
+      "Orange": 2
+    },
+    "time": 210,
+    "xp": 48,
+    "machine": "Ice Cream Maker"
+  },
+  "Corn dog": {
+    "ingredients": {
+      "Bacon": 4,
+      "Corn": 4,
+      "Olive oil": 1
+    },
+    "time": 60,
+    "xp": 63,
+    "machine": "Hot Dog Stand"
+  },
+  "Potato soup": {
+    "ingredients": {
+      "Milk": 1,
+      "Onion": 2,
+      "Potato": 3
+    },
+    "time": 150,
+    "xp": 31,
+    "machine": "Soup Kitchen"
+  },
+  "Ginger": {
+    "ingredients": {
+      "Ginger": 1
+    },
+    "time": 150,
+    "xp": 6,
+    "machine": "Field"
+  },
+  "Sesame brittle": {
+    "ingredients": {
+      "Sesame": 3,
+      "Ginger": 1,
+      "Honey": 1
+    },
+    "time": 60,
+    "xp": 32,
+    "machine": "Candy Machine"
+  },
+  "Affogato": {
+    "ingredients": {
+      "Vanilla ice cream": 1,
+      "Espresso": 1
+    },
+    "time": 20,
+    "xp": 56,
+    "machine": "Ice Cream Maker"
+  },
+  "Fish taco": {
+    "ingredients": {
+      "Chili pepper": 2,
+      "Corn bread": 2,
+      "Fish fillet": 1,
+      "Lemon": 1
+    },
+    "time": 90,
+    "xp": 47,
+    "machine": "Taco Kitchen"
+  },
+  "Peach jam": {
+    "ingredients": {
+      "Peach": 3
+    },
+    "time": 480,
+    "xp": 55,
+    "machine": "Jam Maker"
+  },
+  "Lobster pasta": {
+    "ingredients": {
+      "Lobster tail": 1,
+      "Cream": 2,
+      "Fresh pasta": 3,
+      "Tomato": 4
+    },
+    "time": 120,
+    "xp": 76,
+    "machine": "Pasta Kitchen"
+  },
+  "Cucumber sandwich": {
+    "ingredients": {
+      "Cucumber": 2,
+      "Mayonnaise": 1,
+      "Bread": 2
+    },
+    "time": 35,
+    "xp": 55,
+    "machine": "Sandwich Bar"
+  },
+  "Spicy fish": {
+    "ingredients": {
+      "Fish fillet": 1,
+      "Chili pepper": 3,
+      "Garlic": 5,
+      "Olive oil": 1
+    },
+    "time": 90,
+    "xp": 65,
+    "machine": "Wok Kitchen"
+  },
+  "Sprinkled donut": {
+    "ingredients": {
+      "Plain donut": 1,
+      "Cacao": 2
+    },
+    "time": 20,
+    "xp": 37,
+    "machine": "Donut Maker"
+  },
+  "Cheese omelet": {
+    "ingredients": {
+      "Egg": 3,
+      "Cheese": 2,
+      "Tomato": 2,
+      "Onion": 1
+    },
+    "time": 90,
+    "xp": 55,
+    "machine": "Omelet Station"
+  },
+  "Tea leaf": {
+    "ingredients": {
+      "Tea leaf": 1
+    },
+    "time": 390,
+    "xp": 9,
+    "machine": "Field"
+  },
+  "Green tea": {
+    "ingredients": {
+      "Tea leaf": 5
+    },
+    "time": 30,
+    "xp": 29,
+    "machine": "Tea Stand"
+  },
+  "Onion dog": {
+    "ingredients": {
+      "Bacon": 2,
+      "Bread": 1,
+      "Chili pepper": 1,
+      "Onion": 3
+    },
+    "time": 75,
+    "xp": 36,
+    "machine": "Hot Dog Stand"
+  },
+  "Stuffed peppers": {
+    "ingredients": {
+      "Bell pepper": 3,
+      "Bacon": 1,
+      "Rice": 3,
+      "Cheese": 1
+    },
+    "time": 20,
+    "xp": 42,
+    "machine": "BBQ Grill"
+  },
+  "Ginger essential oil": {
+    "ingredients": {
+      "Ginger": 5
+    },
+    "time": 20,
+    "xp": 19,
+    "machine": "Essential Oils Lab"
+  },
+  "Milk tea": {
+    "ingredients": {
+      "Milk": 1,
+      "Tea leaf": 3
+    },
+    "time": 45,
+    "xp": 23,
+    "machine": "Tea Stand"
+  },
+  "Bell pepper soup": {
+    "ingredients": {
+      "Bread": 1,
+      "Olive oil": 1,
+      "Chili pepper": 1,
+      "Bell pepper": 2
+    },
+    "time": 60,
+    "xp": 52,
+    "machine": "Soup Kitchen"
+  },
+  "Chocolate fondue": {
+    "ingredients": {
+      "Chocolate": 1,
+      "Strawberry": 3
+    },
+    "time": 25,
+    "xp": 74,
+    "machine": "Fondue Pot"
+  },
+  "Peony": {
+    "ingredients": {
+      "Peony": 1
+    },
+    "time": 240,
+    "xp": 7,
+    "machine": "Field"
+  },
+  "Quesadilla": {
+    "ingredients": {
+      "Cheese": 1,
+      "Chili pepper": 2,
+      "Wheat": 4
+    },
+    "time": 60,
+    "xp": 29,
+    "machine": "Taco Kitchen"
+  },
+  "Fruit salad": {
+    "ingredients": {
+      "Blackberry": 2,
+      "Honey": 1,
+      "Orange": 1,
+      "Strawberry": 3
+    },
+    "time": 120,
+    "xp": 71,
+    "machine": "Salad Bar"
+  },
+  "Crunchy donut": {
+    "ingredients": {
+      "Plain donut": 1,
+      "Cacao": 1,
+      "Peanuts": 1
+    },
+    "time": 30,
+    "xp": 71,
+    "machine": "Donut Maker"
+  },
+  "Pasta carbonara": {
+    "ingredients": {
+      "Fresh pasta": 3,
+      "Bacon": 2,
+      "Egg": 1,
+      "Cheese": 1
+    },
+    "time": 150,
+    "xp": 49,
+    "machine": "Pasta Kitchen"
+  },
+  "Peach ice cream": {
+    "ingredients": {
+      "Cream": 1,
+      "Honey": 1,
+      "Peach": 2
+    },
+    "time": 180,
+    "xp": 54,
+    "machine": "Ice Cream Maker"
+  },
+  "Honey tea": {
+    "ingredients": {
+      "Honey": 1,
+      "Tea leaf": 3
+    },
+    "time": 40,
+    "xp": 37,
+    "machine": "Tea Stand"
+  },
+  "Broccoli": {
+    "ingredients": {
+      "Broccoli": 1
+    },
+    "time": 90,
+    "xp": 4,
+    "machine": "Field"
+  },
+  "Broccoli pasta": {
+    "ingredients": {
+      "Broccoli": 3,
+      "Cheese": 1,
+      "Fresh pasta": 3
+    },
+    "time": 60,
+    "xp": 41,
+    "machine": "Pasta Kitchen"
+  },
+  "Rice omelet": {
+    "ingredients": {
+      "Egg": 3,
+      "Tomato sauce": 2,
+      "Rice": 1
+    },
+    "time": 120,
+    "xp": 68,
+    "machine": "Omelet Station"
+  },
+  "Summer salad": {
+    "ingredients": {
+      "Goat cheese": 1,
+      "Onion": 3,
+      "Peach": 1,
+      "Tomato": 3
+    },
+    "time": 180,
+    "xp": 66,
+    "machine": "Salad Bar"
+  },
+  "Grapes": {
+    "ingredients": {
+      "Grapes": 1
+    },
+    "time": 180,
+    "xp": 6,
+    "machine": "Field"
+  },
+  "Grape juice": {
+    "ingredients": {
+      "Grapes": 2
+    },
+    "time": 150,
+    "xp": 13,
+    "machine": "Juice Press"
+  },
+  "Onion melt": {
+    "ingredients": {
+      "Corn bread": 2,
+      "Onion": 3,
+      "Cheese": 1
+    },
+    "time": 90,
+    "xp": 50,
+    "machine": "Sandwich Bar"
+  },
+  "Honey soap": {
+    "ingredients": {
+      "Goat milk": 1,
+      "Cacao": 2,
+      "Honeycomb": 1
+    },
+    "time": 60,
+    "xp": 39,
+    "machine": "Bath Kiosk"
+  },
+  "Lemon lotion": {
+    "ingredients": {
+      "Olive oil": 1,
+      "Lemon": 1
+    },
+    "time": 75,
+    "xp": 48,
+    "machine": "Bath Kiosk"
+  },
+  "Colorful candles": {
+    "ingredients": {
+      "Beeswax": 1,
+      "Raspberry": 1,
+      "Carrot": 1
+    },
+    "time": 110,
+    "xp": 39,
+    "machine": "Candle Maker"
+  },
+  "Mint": {
+    "ingredients": {
+      "Mint": 1
+    },
+    "time": 180,
+    "xp": 6,
+    "machine": "Field"
+  },
+  "Mint essential oil": {
+    "ingredients": {
+      "Mint": 3
+    },
+    "time": 15,
+    "xp": 20,
+    "machine": "Essential Oils Lab"
+  },
+  "Grape jam": {
+    "ingredients": {
+      "Grapes": 3
+    },
+    "time": 390,
+    "xp": 19,
+    "machine": "Jam Maker"
+  },
+  "Mint ice cream": {
+    "ingredients": {
+      "Cream": 1,
+      "White sugar": 1,
+      "Mint": 2,
+      "Cacao": 1
+    },
+    "time": 135,
+    "xp": 34,
+    "machine": "Ice Cream Maker"
+  },
+  "Flower crown": {
+    "ingredients": {
+      "Peony": 5,
+      "Cotton": 4
+    },
+    "time": 120,
+    "xp": 40,
+    "machine": "Hat Maker"
+  },
+  "Lemon tea": {
+    "ingredients": {
+      "Lemon": 1,
+      "Tea leaf": 3
+    },
+    "time": 20,
+    "xp": 29,
+    "machine": "Tea Stand"
+  },
+  "Bacon fondue": {
+    "ingredients": {
+      "Bacon": 3,
+      "Broccoli": 1,
+      "Bell pepper": 1,
+      "Olive oil": 1
+    },
+    "time": 30,
+    "xp": 60,
+    "machine": "Fondue Pot"
+  },
+  "Peanut noodles": {
+    "ingredients": {
+      "Ginger": 1,
+      "Rice noodles": 1,
+      "Soy sauce": 1,
+      "Peanuts": 1
+    },
+    "time": 45,
+    "xp": 80,
+    "machine": "Wok Kitchen"
+  },
+  "Gingerbread cookie": {
+    "ingredients": {
+      "Wheat": 5,
+      "Butter": 1,
+      "Syrup": 1,
+      "Ginger": 2
+    },
+    "time": 30,
+    "xp": 33,
+    "machine": "Bakery"
+  },
+  "Cream donut": {
+    "ingredients": {
+      "Plain donut": 1,
+      "Cream": 1,
+      "Brown sugar": 1
+    },
+    "time": 25,
+    "xp": 27,
+    "machine": "Donut Maker"
+  },
+  "Nachos": {
+    "ingredients": {
+      "Cheese": 1,
+      "Corn": 4,
+      "Salsa": 1
+    },
+    "time": 75,
+    "xp": 52,
+    "machine": "Taco Kitchen"
+  },
+  "Spicy pasta": {
+    "ingredients": {
+      "Fresh pasta": 3,
+      "Tomato sauce": 1,
+      "Chili pepper": 3,
+      "Onion": 2
+    },
+    "time": 90,
+    "xp": 69,
+    "machine": "Pasta Kitchen"
+  },
+  "Broccoli soup": {
+    "ingredients": {
+      "Broccoli": 3,
+      "Onion": 1,
+      "Potato": 3
+    },
+    "time": 75,
+    "xp": 28,
+    "machine": "Soup Kitchen"
+  },
+  "Bacon fries": {
+    "ingredients": {
+      "Chili pepper": 1,
+      "Bacon": 2,
+      "Potato": 4,
+      "Garlic": 1
+    },
+    "time": 25,
+    "xp": 36,
+    "machine": "Deep Fryer"
+  },
+  "Potato omelet": {
+    "ingredients": {
+      "Egg": 3,
+      "Bacon": 3,
+      "Potato": 1
+    },
+    "time": 75,
+    "xp": 32,
+    "machine": "Omelet Station"
+  },
+  "Mixed smoothie": {
+    "ingredients": {
+      "Lemon": 1,
+      "Orange": 2,
+      "Peach": 2
+    },
+    "time": 30,
+    "xp": 60,
+    "machine": "Smoothie Mixer"
+  },
+  "Banana": {
+    "ingredients": {},
+    "time": 1620,
+    "xp": 20,
+    "machine": "Banana tree"
+  },
+  "Iced banana latte": {
+    "ingredients": {
+      "Banana": 1,
+      "Coffee bean": 2,
+      "Milk": 1
+    },
+    "time": 20,
+    "xp": 33,
+    "machine": "Coffee Kiosk"
+  },
+  "Apple ginger tea": {
+    "ingredients": {
+      "Ginger": 1,
+      "Apple": 2,
+      "Tea leaf": 1
+    },
+    "time": 30,
+    "xp": 20,
+    "machine": "Tea Stand"
+  },
+  "Bacon donut": {
+    "ingredients": {
+      "Plain donut": 1,
+      "Bacon": 3,
+      "Syrup": 1
+    },
+    "time": 30,
+    "xp": 46,
+    "machine": "Donut Maker"
+  },
+  "Passion fruit": {
+    "ingredients": {
+      "Passion fruit": 1
+    },
+    "time": 60,
+    "xp": 4,
+    "machine": "Field"
+  },
+  "Passion fruit juice": {
+    "ingredients": {
+      "Passion fruit": 2
+    },
+    "time": 45,
+    "xp": 8,
+    "machine": "Juice Press"
+  },
+  "Orange tea": {
+    "ingredients": {
+      "Orange": 1,
+      "Tea leaf": 3
+    },
+    "time": 40,
+    "xp": 30,
+    "machine": "Tea Stand"
+  },
+  "Fruit cake": {
+    "ingredients": {
+      "Cherry": 2,
+      "Grapes": 2,
+      "Orange": 2,
+      "Wheat": 3
+    },
+    "time": 180,
+    "xp": 54,
+    "machine": "Cake Oven"
+  },
+  "Mushroom": {
+    "ingredients": {
+      "Mushroom": 1
+    },
+    "time": 20,
+    "xp": 2,
+    "machine": "Field"
+  },
+  "Mushroom salad": {
+    "ingredients": {
+      "Mushroom": 3,
+      "Lettuce": 1,
+      "Potato": 2,
+      "Bacon": 1
+    },
+    "time": 60,
+    "xp": 26,
+    "machine": "Salad Bar"
+  },
+  "Tofu stir fry": {
+    "ingredients": {
+      "Soybean": 3,
+      "Onion": 3,
+      "Broccoli": 3,
+      "Sesame": 3
+    },
+    "time": 75,
+    "xp": 37,
+    "machine": "Wok Kitchen"
+  },
+  "Candy bouquet": {
+    "ingredients": {
+      "Peony": 3,
+      "Toffee": 1,
+      "Caramel apple": 1
+    },
+    "time": 20,
+    "xp": 66,
+    "machine": "Flower Shop"
+  },
+  "Eggplant": {
+    "ingredients": {
+      "Eggplant": 1
+    },
+    "time": 40,
+    "xp": 3,
+    "machine": "Field"
+  },
+  "Grilled eggplant": {
+    "ingredients": {
+      "Eggplant": 3,
+      "Salsa": 1
+    },
+    "time": 40,
+    "xp": 39,
+    "machine": "BBQ Grill"
+  },
+  "Banana bread": {
+    "ingredients": {
+      "Banana": 3,
+      "Egg": 1,
+      "Grapes": 2,
+      "Wheat": 3
+    },
+    "time": 30,
+    "xp": 50,
+    "machine": "Bakery"
+  },
+  "Cheese fondue": {
+    "ingredients": {
+      "Potato bread": 1,
+      "Cheese": 1,
+      "Mushroom": 2,
+      "Tomato": 1
+    },
+    "time": 20,
+    "xp": 59,
+    "machine": "Fondue Pot"
+  },
+  "Hand pies": {
+    "ingredients": {
+      "Apple jam": 1,
+      "Egg": 2,
+      "Wheat": 5
+    },
+    "time": 20,
+    "xp": 35,
+    "machine": "Deep Fryer"
+  },
+  "Pickles": {
+    "ingredients": {
+      "Cucumber": 3,
+      "Onion": 2,
+      "Lemon": 1
+    },
+    "time": 240,
+    "xp": 32,
+    "machine": "Preservation Station"
+  },
+  "Watermelon": {
+    "ingredients": {
+      "Watermelon": 1
+    },
+    "time": 300,
+    "xp": 8,
+    "machine": "Field"
+  },
+  "Iced tea": {
+    "ingredients": {
+      "Peach": 1,
+      "Tea leaf": 3
+    },
+    "time": 30,
+    "xp": 30,
+    "machine": "Tea Stand"
+  },
+  "Goat cheese toast": {
+    "ingredients": {
+      "Bread": 1,
+      "Goat cheese": 1,
+      "Grapes": 3
+    },
+    "time": 50,
+    "xp": 36,
+    "machine": "Sandwich Bar"
+  },
+  "Watermelon juice": {
+    "ingredients": {
+      "Watermelon": 2
+    },
+    "time": 60,
+    "xp": 13,
+    "machine": "Juice Press"
+  },
+  "Birthday bouquet": {
+    "ingredients": {
+      "Cherry juice": 1,
+      "Peony": 3,
+      "Lily": 1,
+      "Indigo": 1
+    },
+    "time": 20,
+    "xp": 42,
+    "machine": "Flower Shop"
+  },
+  "Passion fruit pie": {
+    "ingredients": {
+      "Passion fruit": 3,
+      "Wheat": 2,
+      "Egg": 1
+    },
+    "time": 50,
+    "xp": 13,
+    "machine": "Pie Oven"
+  },
+  "Soft bouquet": {
+    "ingredients": {
+      "Peony": 4,
+      "Cotton": 1,
+      "Cotton fabric": 1
+    },
+    "time": 30,
+    "xp": 36,
+    "machine": "Flower Shop"
+  },
+  "Black sesame smoothie": {
+    "ingredients": {
+      "Sesame": 3,
+      "Banana": 1,
+      "Goat milk": 2
+    },
+    "time": 45,
+    "xp": 37,
+    "machine": "Smoothie Mixer"
+  },
+  "Exfoliating soap": {
+    "ingredients": {
+      "Cacao": 2,
+      "Coffee bean": 2,
+      "Raspberry": 1
+    },
+    "time": 60,
+    "xp": 43,
+    "machine": "Bath Kiosk"
+  },
+  "Filled donut": {
+    "ingredients": {
+      "Plain donut": 1,
+      "Raspberry jam": 1
+    },
+    "time": 35,
+    "xp": 48,
+    "machine": "Donut Maker"
+  },
+  "Plum": {
+    "ingredients": {},
+    "time": 1440,
+    "xp": 16,
+    "machine": "Plum tree"
+  },
+  "Banana pancakes": {
+    "ingredients": {
+      "Banana": 1,
+      "Blackberry": 2,
+      "Cream": 1,
+      "Wheat": 3
+    },
+    "time": 60,
+    "xp": 42,
+    "machine": "BBQ Grill"
+  },
+  "Plum jam": {
+    "ingredients": {
+      "Plum": 3
+    },
+    "time": 300,
+    "xp": 46,
+    "machine": "Jam Maker"
+  },
+  "Clay": {
+    "ingredients": {
+      "Clay": 1
+    },
+    "time": 110,
+    "xp": 5,
+    "machine": "Field"
+  },
+  "Tea pot": {
+    "ingredients": {
+      "Clay": 3,
+      "Coffee bean": 1,
+      "Gold ore": 1
+    },
+    "time": 220,
+    "xp": 26,
+    "machine": "Pottery Studio"
+  },
+  "Floral candle": {
+    "ingredients": {
+      "Beeswax": 1,
+      "Peony": 2,
+      "Sunflower": 2,
+      "Indigo": 3
+    },
+    "time": 120,
+    "xp": 53,
+    "machine": "Candle Maker"
+  },
+  "Chocolate roll": {
+    "ingredients": {
+      "Cacao": 5,
+      "Cream": 1,
+      "Wheat": 3,
+      "Mint": 3
+    },
+    "time": 90,
+    "xp": 72,
+    "machine": "Cake Oven"
+  },
+  "Canned fish": {
+    "ingredients": {
+      "Fish fillet": 2,
+      "Chili pepper": 1,
+      "Olive oil": 1
+    },
+    "time": 220,
+    "xp": 56,
+    "machine": "Preservation Station"
+  },
+  "Chickpea": {
+    "ingredients": {
+      "Chickpea": 1
+    },
+    "time": 60,
+    "xp": 4,
+    "machine": "Field"
+  },
+  "Hummus": {
+    "ingredients": {
+      "Chickpea": 3,
+      "Lemon": 2,
+      "Garlic": 1
+    },
+    "time": 30,
+    "xp": 33,
+    "machine": "Sauce Maker"
+  },
+  "Banana split": {
+    "ingredients": {
+      "Banana": 1,
+      "Cherry": 3,
+      "Cream": 1
+    },
+    "time": 210,
+    "xp": 48,
+    "machine": "Ice Cream Maker"
+  },
+  "Fish skewer": {
+    "ingredients": {
+      "Fish fillet": 1,
+      "Mushroom": 3,
+      "Ginger": 1,
+      "Sesame": 2
+    },
+    "time": 30,
+    "xp": 21,
+    "machine": "BBQ Grill"
+  },
+  "Passion fruit jam": {
+    "ingredients": {
+      "Passion fruit": 3
+    },
+    "time": 320,
+    "xp": 14,
+    "machine": "Jam Maker"
+  },
+  "Potted plant": {
+    "ingredients": {
+      "Clay": 3,
+      "Sunflower": 1
+    },
+    "time": 220,
+    "xp": 26,
+    "machine": "Pottery Studio"
+  },
+  "Mint tea": {
+    "ingredients": {
+      "Tea leaf": 3,
+      "Mint": 1,
+      "Watermelon": 1
+    },
+    "time": 35,
+    "xp": 31,
+    "machine": "Tea Stand"
+  },
+  "Mushroom pot pie": {
+    "ingredients": {
+      "Mushroom": 3,
+      "Cabbage": 3,
+      "Wheat": 3,
+      "Egg": 2
+    },
+    "time": 60,
+    "xp": 19,
+    "machine": "Pie Oven"
+  },
+  "Mango": {
+    "ingredients": {},
+    "time": 1920,
+    "xp": 20,
+    "machine": "Mango tree"
+  },
+  "Mango juice": {
+    "ingredients": {
+      "Mango": 2
+    },
+    "time": 50,
+    "xp": 27,
+    "machine": "Juice Press"
+  },
+  "Flower pendant": {
+    "ingredients": {
+      "Peony": 3,
+      "Platinum bar": 1,
+      "Gold bar": 2
+    },
+    "time": 60,
+    "xp": 83,
+    "machine": "Jeweler"
+  },
+  "Chili poppers": {
+    "ingredients": {
+      "Chili pepper": 3,
+      "Wheat": 1,
+      "Bacon": 3,
+      "Cheese": 1
+    },
+    "time": 40,
+    "xp": 48,
+    "machine": "Deep Fryer"
+  },
+  "Falafel": {
+    "ingredients": {
+      "Chili pepper": 1,
+      "Chickpea": 3,
+      "Onion": 2,
+      "Garlic": 2
+    },
+    "time": 55,
+    "xp": 27,
+    "machine": "Deep Fryer"
+  },
+  "Kimchi": {
+    "ingredients": {
+      "Cabbage": 5,
+      "Ginger": 1,
+      "Chili pepper": 1,
+      "Garlic": 1
+    },
+    "time": 300,
+    "xp": 26,
+    "machine": "Preservation Station"
+  },
+  "Eggplant parmesan": {
+    "ingredients": {
+      "Eggplant": 3,
+      "Cheese": 1,
+      "Tomato sauce": 1
+    },
+    "time": 45,
+    "xp": 53,
+    "machine": "Pie Oven"
+  },
+  "Honey face mask": {
+    "ingredients": {
+      "Egg": 2,
+      "Honey": 1,
+      "Lemon": 1
+    },
+    "time": 90,
+    "xp": 38,
+    "machine": "Bath Kiosk"
+  },
+  "Clay mug": {
+    "ingredients": {
+      "Clay": 3,
+      "Indigo": 2,
+      "Peony": 1
+    },
+    "time": 200,
+    "xp": 25,
+    "machine": "Pottery Studio"
+  },
+  "Rich fudge": {
+    "ingredients": {
+      "Cacao": 3,
+      "Butter": 3,
+      "White sugar": 2
+    },
+    "time": 120,
+    "xp": 77,
+    "machine": "Fudge Shop"
+  },
+  "Cocoa smoothie": {
+    "ingredients": {
+      "Banana": 2,
+      "Cacao": 3,
+      "Milk": 1
+    },
+    "time": 40,
+    "xp": 61,
+    "machine": "Smoothie Mixer"
+  },
+  "Fried candy bar": {
+    "ingredients": {
+      "Cacao": 3,
+      "Cookie": 1,
+      "Peanuts": 1
+    },
+    "time": 15,
+    "xp": 87,
+    "machine": "Deep Fryer"
+  },
+  "Tart dressing": {
+    "ingredients": {
+      "Passion fruit": 2,
+      "Chili pepper": 2,
+      "Honey": 1
+    },
+    "time": 30,
+    "xp": 34,
+    "machine": "Sauce Maker"
+  },
+  "Tropical fondue": {
+    "ingredients": {
+      "White sugar": 1,
+      "Cream": 2,
+      "Pineapple": 3,
+      "Mango": 2
+    },
+    "time": 35,
+    "xp": 50,
+    "machine": "Fondue Pot"
+  },
+  "Chamomile tea": {
+    "ingredients": {
+      "Chamomile": 5,
+      "Honeycomb": 1
+    },
+    "time": 20,
+    "xp": 17,
+    "machine": "Tea Stand"
+  },
+  "Mushroom pasta": {
+    "ingredients": {
+      "Mushroom": 5,
+      "Fresh pasta": 3,
+      "Goat milk": 1
+    },
+    "time": 75,
+    "xp": 33,
+    "machine": "Pasta Kitchen"
+  },
+  "Coconut": {
+    "ingredients": {},
+    "time": 2160,
+    "xp": 21,
+    "machine": "Coconut tree"
+  },
+  "Macaroon": {
+    "ingredients": {
+      "Cacao": 1,
+      "Coconut": 2,
+      "White sugar": 2
+    },
+    "time": 30,
+    "xp": 50,
+    "machine": "Bakery"
+  },
+  "Plum smoothie": {
+    "ingredients": {
+      "Plum": 3,
+      "Grapes": 1,
+      "Mint": 1,
+      "Honey": 1
+    },
+    "time": 35,
+    "xp": 62,
+    "machine": "Smoothie Mixer"
+  },
+  "Dried fruit": {
+    "ingredients": {
+      "Grapes": 1,
+      "Raspberry": 1,
+      "Strawberry": 1,
+      "Orange": 1
+    },
+    "time": 180,
+    "xp": 32,
+    "machine": "Preservation Station"
+  },
+  "Mint fudge": {
+    "ingredients": {
+      "Butter": 2,
+      "Cacao": 2,
+      "White sugar": 1,
+      "Mint": 3
+    },
+    "time": 150,
+    "xp": 62,
+    "machine": "Fudge Shop"
+  },
+  "Coconut ice cream": {
+    "ingredients": {
+      "Coconut": 2,
+      "Syrup": 1
+    },
+    "time": 15,
+    "xp": 38,
+    "machine": "Ice Cream Maker"
+  },
+  "Samosa": {
+    "ingredients": {
+      "Chickpea": 2,
+      "Wheat": 4,
+      "Chili pepper": 1,
+      "Potato": 3
+    },
+    "time": 75,
+    "xp": 27,
+    "machine": "Deep Fryer"
+  },
+  "Plain yogurt": {
+    "ingredients": {
+      "Milk": 3,
+      "Cream": 2
+    },
+    "time": 120,
+    "xp": 28,
+    "machine": "Yogurt Maker"
+  },
+  "Mushroom soup": {
+    "ingredients": {
+      "Mushroom": 3,
+      "Milk": 1,
+      "Onion": 2
+    },
+    "time": 80,
+    "xp": 21,
+    "machine": "Soup Kitchen"
+  },
+  "Chili fudge": {
+    "ingredients": {
+      "Butter": 2,
+      "Cacao": 2,
+      "White sugar": 1,
+      "Chili pepper": 3
+    },
+    "time": 170,
+    "xp": 64,
+    "machine": "Fudge Shop"
+  },
+  "Tropical smoothie": {
+    "ingredients": {
+      "Coconut": 1,
+      "Banana": 1,
+      "Passion fruit": 2,
+      "Mango": 2
+    },
+    "time": 40,
+    "xp": 57,
+    "machine": "Smoothie Mixer"
+  },
+  "Guava": {
+    "ingredients": {},
+    "time": 2040,
+    "xp": 22,
+    "machine": "Guava tree"
+  },
+  "Guava juice": {
+    "ingredients": {
+      "Guava": 2
+    },
+    "time": 55,
+    "xp": 30,
+    "machine": "Juice Press"
+  },
+  "Guava compote": {
+    "ingredients": {
+      "Guava": 2,
+      "Lemon": 1,
+      "White sugar": 1
+    },
+    "time": 260,
+    "xp": 50,
+    "machine": "Preservation Station"
+  },
+  "Strawberry yogurt": {
+    "ingredients": {
+      "Plain yogurt": 1,
+      "Strawberry jam": 1
+    },
+    "time": 40,
+    "xp": 63,
+    "machine": "Yogurt Maker"
+  },
+  "Veggie bouquet": {
+    "ingredients": {
+      "Broccoli": 3,
+      "Tomato": 3,
+      "Mushroom": 3,
+      "Cotton fabric": 1
+    },
+    "time": 15,
+    "xp": 42,
+    "machine": "Flower Shop"
+  },
+  "Chickpea stew": {
+    "ingredients": {
+      "Coconut": 1,
+      "Tomato": 2,
+      "Chickpea": 3
+    },
+    "time": 90,
+    "xp": 34,
+    "machine": "Stew Pot"
+  },
+  "Fruit sorbet": {
+    "ingredients": {
+      "Guava": 1,
+      "Passion fruit": 1,
+      "Mango": 2,
+      "White sugar": 3
+    },
+    "time": 60,
+    "xp": 62,
+    "machine": "Ice Cream Maker"
+  },
+  "Pomegranate": {
+    "ingredients": {},
+    "time": 1620,
+    "xp": 22,
+    "machine": "Pomegranate tree"
+  },
+  "Pomegranate tea": {
+    "ingredients": {
+      "Pomegranate": 1,
+      "Tea leaf": 4
+    },
+    "time": 34,
+    "xp": 37,
+    "machine": "Tea Stand"
+  },
+  "Lemon fudge": {
+    "ingredients": {
+      "Butter": 2,
+      "Lemon": 2,
+      "White sugar": 2,
+      "Milk": 3
+    },
+    "time": 110,
+    "xp": 70,
+    "machine": "Fudge Shop"
+  },
+  "Pomegranate cake": {
+    "ingredients": {
+      "Pomegranate": 1,
+      "Egg": 2,
+      "Cream": 2,
+      "Wheat": 6
+    },
+    "time": 160,
+    "xp": 38,
+    "machine": "Cake Oven"
+  },
+  "Hummus wrap": {
+    "ingredients": {
+      "Bread": 2,
+      "Lettuce": 1,
+      "Hummus": 1
+    },
+    "time": 30,
+    "xp": 45,
+    "machine": "Sandwich Bar"
+  },
+  "Tropical yogurt": {
+    "ingredients": {
+      "Plain yogurt": 1,
+      "Raspberry": 4,
+      "Passion fruit": 1,
+      "Mango": 2
+    },
+    "time": 60,
+    "xp": 54,
+    "machine": "Yogurt Maker"
+  },
+  "Chili stew": {
+    "ingredients": {
+      "Chili pepper": 3,
+      "Bacon": 2,
+      "Onion": 2,
+      "Cream": 1
+    },
+    "time": 120,
+    "xp": 44,
+    "machine": "Stew Pot"
+  },
+  "Plain cupcake": {
+    "ingredients": {
+      "Milk": 2,
+      "White sugar": 3,
+      "Egg": 1,
+      "Wheat": 5
+    },
+    "time": 40,
+    "xp": 34,
+    "machine": "Cupcake Maker"
+  },
+  "Guava cupcake": {
+    "ingredients": {
+      "Plain cupcake": 1,
+      "Guava": 2,
+      "Cream": 1
+    },
+    "time": 70,
+    "xp": 70,
+    "machine": "Cupcake Maker"
+  },
+  "Rice ball": {
+    "ingredients": {
+      "Rice": 20,
+      "Sesame": 1,
+      "Plum": 1
+    },
+    "time": 45,
+    "xp": 55,
+    "machine": "Sushi Bar"
+  },
+  "Fresh diffuser": {
+    "ingredients": {
+      "Ginger essential oil": 1,
+      "Mint essential oil": 1
+    },
+    "time": 20,
+    "xp": 42,
+    "machine": "Perfumerie"
+  },
+  "Peanut fudge": {
+    "ingredients": {
+      "Butter": 2,
+      "Cacao": 2,
+      "White sugar": 1,
+      "Peanuts": 2
+    },
+    "time": 90,
+    "xp": 136,
+    "machine": "Fudge Shop"
+  },
+  "Tropical cupcake": {
+    "ingredients": {
+      "Plain cupcake": 1,
+      "Pineapple": 3,
+      "Coconut": 2
+    },
+    "time": 90,
+    "xp": 68,
+    "machine": "Cupcake Maker"
+  },
+  "Winter stew": {
+    "ingredients": {
+      "Bacon": 1,
+      "Potato": 3,
+      "Onion": 2,
+      "Mushroom": 2
+    },
+    "time": 140,
+    "xp": 7,
+    "machine": "Stew Pot"
+  },
+  "Zesty perfume": {
+    "ingredients": {
+      "Lemon essential oil": 1,
+      "Ginger": 3
+    },
+    "time": 15,
+    "xp": 46,
+    "machine": "Perfumerie"
+  },
+  "Cookie cupcake": {
+    "ingredients": {
+      "Plain cupcake": 1,
+      "Cream": 2,
+      "Cookie": 2,
+      "Cacao": 1
+    },
+    "time": 120,
+    "xp": 85,
+    "machine": "Cupcake Maker"
+  },
+  "Plain waffles": {
+    "ingredients": {
+      "White sugar": 2,
+      "Egg": 3,
+      "Wheat": 5
+    },
+    "time": 25,
+    "xp": 24,
+    "machine": "Waffle Maker"
+  },
+  "Berry waffles": {
+    "ingredients": {
+      "Plain waffles": 1,
+      "Syrup": 1,
+      "Raspberry": 3,
+      "Blackberry": 2
+    },
+    "time": 35,
+    "xp": 72,
+    "machine": "Waffle Maker"
+  },
+  "Calming diffuser": {
+    "ingredients": {
+      "Chamomile essential oil": 1,
+      "Indigo": 3
+    },
+    "time": 25,
+    "xp": 20,
+    "machine": "Perfumerie"
+  },
+  "Orange salad": {
+    "ingredients": {
+      "Cheese": 1,
+      "Lettuce": 3,
+      "Pomegranate": 1,
+      "Orange": 2
+    },
+    "time": 45,
+    "xp": 66,
+    "machine": "Salad Bar"
+  },
+  "Chocolate waffles": {
+    "ingredients": {
+      "Plain waffles": 1,
+      "Cacao": 2,
+      "Strawberry": 3,
+      "Banana": 1
+    },
+    "time": 40,
+    "xp": 76,
+    "machine": "Waffle Maker"
+  },
+  "Breakfast waffles": {
+    "ingredients": {
+      "Plain waffles": 1,
+      "Bacon": 2,
+      "Egg": 1,
+      "Asparagus": 2
+    },
+    "time": 45,
+    "xp": 51,
+    "machine": "Waffle Maker"
+  },
+  "Oats": {
+    "ingredients": {
+      "Oats": 1
+    },
+    "time": 7,
+    "xp": 1,
+    "machine": "Field"
+  },
+  "Breakfast bowl": {
+    "ingredients": {
+      "Plain yogurt": 1,
+      "Oats": 4,
+      "Honey": 1,
+      "Blackberry": 2
+    },
+    "time": 50,
+    "xp": 54,
+    "machine": "Yogurt Maker"
+  },
+  "Apple porridge": {
+    "ingredients": {
+      "Apple": 1,
+      "Apple jam": 2,
+      "Oats": 4
+    },
+    "time": 20,
+    "xp": 62,
+    "machine": "Porridge Bar"
+  },
+  "Pineapple coconut bars": {
+    "ingredients": {
+      "Coconut": 1,
+      "White sugar": 2,
+      "Oats": 3,
+      "Pineapple": 2
+    },
+    "time": 40,
+    "xp": 34,
+    "machine": "Bakery"
+  },
+  "Sweet porridge": {
+    "ingredients": {
+      "Peach": 1,
+      "Honey": 2,
+      "Oats": 3
+    },
+    "time": 45,
+    "xp": 55,
+    "machine": "Porridge Bar"
+  },
+  "Rich soap": {
+    "ingredients": {
+      "Oats": 2,
+      "Pomegranate": 1,
+      "Coconut": 1
+    },
+    "time": 70,
+    "xp": 32,
+    "machine": "Bath Kiosk"
+  },
+  "Fresh porridge": {
+    "ingredients": {
+      "Pomegranate": 1,
+      "Mint": 2,
+      "Coconut": 2,
+      "Oats": 3
+    },
+    "time": 35,
+    "xp": 52,
+    "machine": "Porridge Bar"
+  },
+  "Vanilla milkshake": {
+    "ingredients": {
+      "Vanilla ice cream": 1,
+      "Cookie": 2,
+      "Toffee": 1,
+      "Syrup": 1
+    },
+    "time": 45,
+    "xp": 80,
+    "machine": "Milkshake Bar"
+  },
+  "Mocha milkshake": {
+    "ingredients": {
+      "Chocolate ice cream": 1,
+      "Espresso": 2
+    },
+    "time": 30,
+    "xp": 125,
+    "machine": "Milkshake Bar"
+  },
+  "Fruity milkshake": {
+    "ingredients": {
+      "Peach ice cream": 1,
+      "Orange": 2,
+      "Lemon": 1
+    },
+    "time": 35,
+    "xp": 90,
+    "machine": "Milkshake Bar"
+  }
+}
