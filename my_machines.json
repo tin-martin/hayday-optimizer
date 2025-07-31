@@ -1,5 +1,5 @@
 {
-  "Field": { "number": 3 },
+  "Field": { "number": 5 },
   "Chicken": { "number": 1 },
   "Bakery": { "number": 1 },
   "Feed Mill": { "number": 1 },
@@ -75,5 +75,6 @@
   "Goat cheese": { "number": 1 },
   "Duck Salon": { "number": 1 },
   "Lobster Pool": { "number": 1 },
-  "Olive Tree": {"number": 1 }
+  "Olive Tree": {"number": 1 },
+  "Sauce Maker": {"number": 1}
 }
