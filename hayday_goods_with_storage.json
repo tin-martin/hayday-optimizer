@@ -1,11 +1,19 @@
 {
+   "Diamond": {
+    "ingredients": {},
+    "time": 0,
+    "xp": 0,
+    "machine": "",
+    "storage": "silo"
+  },
   "Wheat": {
     "ingredients": {
       "Wheat": 1
     },
     "time": 2,
     "xp": 1,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Egg": {
     "ingredients": {
@@ -13,7 +21,8 @@
     },
     "time": 20,
     "xp": 2,
-    "machine": "Chicken"
+    "machine": "Chicken",
+    "storage": "barn"
   },
   "Corn": {
     "ingredients": {
@@ -21,7 +30,8 @@
     },
     "time": 5,
     "xp": 1,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Bread": {
     "ingredients": {
@@ -29,7 +39,8 @@
     },
     "time": 5,
     "xp": 3,
-    "machine": "Bakery"
+    "machine": "Bakery",
+    "storage": "barn"
   },
   "Chicken feed": {
     "ingredients": {
@@ -38,7 +49,8 @@
     },
     "time": 5,
     "xp": 1,
-    "machine": "Feed Mill"
+    "machine": "Feed Mill",
+    "storage": "barn"
   },
   "Soybean": {
     "ingredients": {
@@ -46,7 +58,8 @@
     },
     "time": 20,
     "xp": 2,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Cow feed": {
     "ingredients": {
@@ -55,7 +68,8 @@
     },
     "time": 10,
     "xp": 2,
-    "machine": "Feed Mill"
+    "machine": "Feed Mill",
+    "storage": "barn"
   },
   "Milk": {
     "ingredients": {
@@ -63,7 +77,8 @@
     },
     "time": 60,
     "xp": 3,
-    "machine": "Cow"
+    "machine": "Cow",
+    "storage": "barn"
   },
   "Cream": {
     "ingredients": {
@@ -71,7 +86,8 @@
     },
     "time": 20,
     "xp": 6,
-    "machine": "Dairy"
+    "machine": "Dairy",
+    "storage": "barn"
   },
   "Sugarcane": {
     "ingredients": {
@@ -79,7 +95,8 @@
     },
     "time": 30,
     "xp": 3,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Corn bread": {
     "ingredients": {
@@ -88,7 +105,8 @@
     },
     "time": 30,
     "xp": 8,
-    "machine": "Bakery"
+    "machine": "Bakery",
+    "storage": "barn"
   },
   "Brown sugar": {
     "ingredients": {
@@ -96,7 +114,8 @@
     },
     "time": 20,
     "xp": 4,
-    "machine": "Sugar Mill"
+    "machine": "Sugar Mill",
+    "storage": "barn"
   },
   "Popcorn": {
     "ingredients": {
@@ -104,7 +123,8 @@
     },
     "time": 30,
     "xp": 4,
-    "machine": "Popcorn Pot"
+    "machine": "Popcorn Pot",
+    "storage": "barn"
   },
   "Carrot": {
     "ingredients": {
@@ -112,7 +132,8 @@
     },
     "time": 10,
     "xp": 2,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Butter": {
     "ingredients": {
@@ -120,7 +141,8 @@
     },
     "time": 30,
     "xp": 10,
-    "machine": "Dairy"
+    "machine": "Dairy",
+    "storage": "barn"
   },
   "Pancake": {
     "ingredients": {
@@ -129,7 +151,8 @@
     },
     "time": 30,
     "xp": 13,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Pig feed": {
     "ingredients": {
@@ -138,7 +161,8 @@
     },
     "time": 20,
     "xp": 2,
-    "machine": "Feed Mill"
+    "machine": "Feed Mill",
+    "storage": "barn"
   },
   "Bacon": {
     "ingredients": {
@@ -146,7 +170,8 @@
     },
     "time": 240,
     "xp": 5,
-    "machine": "Pig"
+    "machine": "Pig",
+    "storage": "barn"
   },
   "Cookie": {
     "ingredients": {
@@ -156,7 +181,8 @@
     },
     "time": 60,
     "xp": 13,
-    "machine": "Bakery"
+    "machine": "Bakery",
+    "storage": "barn"
   },
   "Bacon and eggs": {
     "ingredients": {
@@ -165,7 +191,8 @@
     },
     "time": 60,
     "xp": 24,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Cheese": {
     "ingredients": {
@@ -173,7 +200,8 @@
     },
     "time": 60,
     "xp": 15,
-    "machine": "Dairy"
+    "machine": "Dairy",
+    "storage": "barn"
   },
   "Indigo": {
     "ingredients": {
@@ -181,7 +209,8 @@
     },
     "time": 120,
     "xp": 5,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "White sugar": {
     "ingredients": {
@@ -189,7 +218,8 @@
     },
     "time": 40,
     "xp": 6,
-    "machine": "Sugar Mill"
+    "machine": "Sugar Mill",
+    "storage": "barn"
   },
   "Carrot pie": {
     "ingredients": {
@@ -199,7 +229,8 @@
     },
     "time": 60,
     "xp": 10,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Pumpkin": {
     "ingredients": {
@@ -207,7 +238,8 @@
     },
     "time": 180,
     "xp": 6,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Pumpkin pie": {
     "ingredients": {
@@ -217,13 +249,15 @@
     },
     "time": 120,
     "xp": 19,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Apple": {
     "ingredients": {},
     "time": 960,
     "xp": 7,
-    "machine": "Apple tree"
+    "machine": "Apple tree",
+    "storage": "silo"
   },
   "Sheep feed": {
     "ingredients": {
@@ -232,7 +266,8 @@
     },
     "time": 30,
     "xp": 3,
-    "machine": "Feed Mill"
+    "machine": "Feed Mill",
+    "storage": "barn"
   },
   "Wool": {
     "ingredients": {
@@ -240,7 +275,8 @@
     },
     "time": 360,
     "xp": 5,
-    "machine": "Sheep"
+    "machine": "Sheep",
+    "storage": "barn"
   },
   "Buttered popcorn": {
     "ingredients": {
@@ -249,7 +285,8 @@
     },
     "time": 60,
     "xp": 15,
-    "machine": "Popcorn Pot"
+    "machine": "Popcorn Pot",
+    "storage": "barn"
   },
   "Sweater": {
     "ingredients": {
@@ -257,7 +294,8 @@
     },
     "time": 120,
     "xp": 18,
-    "machine": "Loom"
+    "machine": "Loom",
+    "storage": "barn"
   },
   "Cotton": {
     "ingredients": {
@@ -265,7 +303,8 @@
     },
     "time": 150,
     "xp": 6,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Bacon pie": {
     "ingredients": {
@@ -275,7 +314,8 @@
     },
     "time": 180,
     "xp": 26,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Syrup": {
     "ingredients": {
@@ -283,7 +323,8 @@
     },
     "time": 90,
     "xp": 11,
-    "machine": "Sugar Mill"
+    "machine": "Sugar Mill",
+    "storage": "barn"
   },
   "Cotton fabric": {
     "ingredients": {
@@ -291,7 +332,8 @@
     },
     "time": 30,
     "xp": 13,
-    "machine": "Loom"
+    "machine": "Loom",
+    "storage": "barn"
   },
   "Hamburger": {
     "ingredients": {
@@ -300,13 +342,15 @@
     },
     "time": 120,
     "xp": 22,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Raspberry": {
     "ingredients": {},
     "time": 1080,
     "xp": 9,
-    "machine": "Raspberry bush"
+    "machine": "Raspberry bush",
+    "storage": "silo"
   },
   "Raspberry muffin": {
     "ingredients": {
@@ -316,7 +360,8 @@
     },
     "time": 45,
     "xp": 17,
-    "machine": "Bakery"
+    "machine": "Bakery",
+    "storage": "barn"
   },
   "Blue woolly hat": {
     "ingredients": {
@@ -325,7 +370,8 @@
     },
     "time": 60,
     "xp": 13,
-    "machine": "Loom"
+    "machine": "Loom",
+    "storage": "barn"
   },
   "Cotton shirt": {
     "ingredients": {
@@ -333,7 +379,8 @@
     },
     "time": 45,
     "xp": 29,
-    "machine": "Sewing Machine"
+    "machine": "Sewing Machine",
+    "storage": "barn"
   },
   "Blue sweater": {
     "ingredients": {
@@ -342,7 +389,8 @@
     },
     "time": 180,
     "xp": 25,
-    "machine": "Loom"
+    "machine": "Loom",
+    "storage": "barn"
   },
   "Carrot cake": {
     "ingredients": {
@@ -352,7 +400,8 @@
     },
     "time": 90,
     "xp": 20,
-    "machine": "Cake Oven"
+    "machine": "Cake Oven",
+    "storage": "barn"
   },
   "Wooly chaps": {
     "ingredients": {
@@ -361,13 +410,15 @@
     },
     "time": 90,
     "xp": 37,
-    "machine": "Sewing Machine"
+    "machine": "Sewing Machine",
+    "storage": "barn"
   },
   "Cherry": {
     "ingredients": {},
     "time": 1620,
     "xp": 13,
-    "machine": "Cherry tree"
+    "machine": "Cherry tree",
+    "storage": "silo"
   },
   "Cream cake": {
     "ingredients": {
@@ -377,7 +428,8 @@
     },
     "time": 180,
     "xp": 26,
-    "machine": "Cake Oven"
+    "machine": "Cake Oven",
+    "storage": "barn"
   },
   "Red berry cake": {
     "ingredients": {
@@ -388,7 +440,8 @@
     },
     "time": 60,
     "xp": 31,
-    "machine": "Cake Oven"
+    "machine": "Cake Oven",
+    "storage": "barn"
   },
   "Cheesecake": {
     "ingredients": {
@@ -397,25 +450,29 @@
     },
     "time": 240,
     "xp": 34,
-    "machine": "Cake Oven"
+    "machine": "Cake Oven",
+    "storage": "barn"
   },
   "Silver ore": {
     "ingredients": {},
     "time": 0,
     "xp": 5,
-    "machine": "Mine"
+    "machine": "Mine",
+    "storage": "barn"
   },
   "Gold ore": {
     "ingredients": {},
     "time": 0,
     "xp": 6,
-    "machine": "Mine"
+    "machine": "Mine",
+    "storage": "barn"
   },
   "Platinum ore": {
     "ingredients": {},
     "time": 0,
     "xp": 7,
-    "machine": "Mine"
+    "machine": "Mine",
+    "storage": "barn"
   },
   "Silver bar": {
     "ingredients": {
@@ -423,7 +480,8 @@
     },
     "time": 480,
     "xp": 18,
-    "machine": "Smelter"
+    "machine": "Smelter",
+    "storage": "barn"
   },
   "Chili pepper": {
     "ingredients": {
@@ -431,7 +489,8 @@
     },
     "time": 240,
     "xp": 7,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Chili popcorn": {
     "ingredients": {
@@ -440,7 +499,8 @@
     },
     "time": 120,
     "xp": 15,
-    "machine": "Popcorn Pot"
+    "machine": "Popcorn Pot",
+    "storage": "barn"
   },
   "Gold bar": {
     "ingredients": {
@@ -448,7 +508,8 @@
     },
     "time": 720,
     "xp": 21,
-    "machine": "Smelter"
+    "machine": "Smelter",
+    "storage": "barn"
   },
   "Platinum bar": {
     "ingredients": {
@@ -456,7 +517,8 @@
     },
     "time": 960,
     "xp": 24,
-    "machine": "Smelter"
+    "machine": "Smelter",
+    "storage": "barn"
   },
   "Violet dress": {
     "ingredients": {
@@ -466,13 +528,15 @@
     },
     "time": 135,
     "xp": 39,
-    "machine": "Sewing Machine"
+    "machine": "Sewing Machine",
+    "storage": "barn"
   },
   "Blackberry": {
     "ingredients": {},
     "time": 1920,
     "xp": 16,
-    "machine": "Blackberry bush"
+    "machine": "Blackberry bush",
+    "storage": "silo"
   },
   "Blackberry muffin": {
     "ingredients": {
@@ -482,7 +546,8 @@
     },
     "time": 45,
     "xp": 27,
-    "machine": "Bakery"
+    "machine": "Bakery",
+    "storage": "barn"
   },
   "Carrot juice": {
     "ingredients": {
@@ -490,13 +555,15 @@
     },
     "time": 30,
     "xp": 6,
-    "machine": "Juice Press"
+    "machine": "Juice Press",
+    "storage": "barn"
   },
   "Red lure": {
     "ingredients": {},
     "time": 90,
     "xp": 1,
-    "machine": "Lure Workbench"
+    "machine": "Lure Workbench",
+    "storage": "barn"
   },
   "Green lure": {
     "ingredients": {
@@ -504,7 +571,8 @@
     },
     "time": 75,
     "xp": 2,
-    "machine": "Lure Workbench"
+    "machine": "Lure Workbench",
+    "storage": "barn"
   },
   "Blue lure": {
     "ingredients": {
@@ -512,7 +580,8 @@
     },
     "time": 60,
     "xp": 3,
-    "machine": "Lure Workbench"
+    "machine": "Lure Workbench",
+    "storage": "barn"
   },
   "Purple lure": {
     "ingredients": {
@@ -520,7 +589,8 @@
     },
     "time": 45,
     "xp": 4,
-    "machine": "Lure Workbench"
+    "machine": "Lure Workbench",
+    "storage": "barn"
   },
   "Gold lure": {
     "ingredients": {
@@ -528,7 +598,8 @@
     },
     "time": 30,
     "xp": 5,
-    "machine": "Lure Workbench"
+    "machine": "Lure Workbench",
+    "storage": "barn"
   },
   "Fish fillet": {
     "ingredients": {
@@ -536,7 +607,8 @@
     },
     "time": 0,
     "xp": 0,
-    "machine": "Fish"
+    "machine": "Fish",
+    "storage": "barn"
   },
   "Fish burger": {
     "ingredients": {
@@ -546,7 +618,8 @@
     },
     "time": 120,
     "xp": 27,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Apple pie": {
     "ingredients": {
@@ -557,7 +630,8 @@
     },
     "time": 150,
     "xp": 32,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Fish pie": {
     "ingredients": {
@@ -567,7 +641,8 @@
     },
     "time": 120,
     "xp": 27,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Apple juice": {
     "ingredients": {
@@ -575,7 +650,8 @@
     },
     "time": 120,
     "xp": 15,
-    "machine": "Juice Press"
+    "machine": "Juice Press",
+    "storage": "barn"
   },
   "Vanilla ice cream": {
     "ingredients": {
@@ -585,7 +661,8 @@
     },
     "time": 120,
     "xp": 20,
-    "machine": "Ice Cream Maker"
+    "machine": "Ice Cream Maker",
+    "storage": "barn"
   },
   "Tomato": {
     "ingredients": {
@@ -593,7 +670,8 @@
     },
     "time": 360,
     "xp": 8,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Roasted tomatoes": {
     "ingredients": {
@@ -601,7 +679,8 @@
     },
     "time": 90,
     "xp": 14,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Cherry juice": {
     "ingredients": {
@@ -609,19 +688,15 @@
     },
     "time": 150,
     "xp": 26,
-    "machine": "Juice Press"
+    "machine": "Juice Press",
+    "storage": "barn"
   },
   "Fishing net": {
     "ingredients": {},
     "time": 240,
     "xp": 7,
-    "machine": "Net Maker"
-  },
-   "Diamond": {
-    "ingredients": {},
-    "time": 0,
-    "xp": 0,
-    "machine": "Net Maker"
+    "machine": "Net Maker",
+    "storage": "barn"
   },
   "Mystery net": {
     "ingredients": {
@@ -629,13 +704,15 @@
     },
     "time": 180,
     "xp": 7,
-    "machine": "Net Maker"
+    "machine": "Net Maker",
+    "storage": "barn"
   },
   "Blueberries": {
     "ingredients": {},
     "time": 2040,
     "xp": 16,
-    "machine": "Blueberry bush"
+    "machine": "Blueberry bush",
+    "storage": "barn"
   },
   "Tomato juice": {
     "ingredients": {
@@ -643,7 +720,8 @@
     },
     "time": 90,
     "xp": 19,
-    "machine": "Juice Press"
+    "machine": "Juice Press",
+    "storage": "barn"
   },
   "Berry juice": {
     "ingredients": {
@@ -652,7 +730,8 @@
     },
     "time": 180,
     "xp": 24,
-    "machine": "Juice Press"
+    "machine": "Juice Press",
+    "storage": "barn"
   },
   "Goat feed": {
     "ingredients": {
@@ -662,7 +741,8 @@
     },
     "time": 40,
     "xp": 3,
-    "machine": "Feed Mill"
+    "machine": "Feed Mill",
+    "storage": "barn"
   },
   "Goat milk": {
     "ingredients": {
@@ -670,7 +750,8 @@
     },
     "time": 480,
     "xp": 6,
-    "machine": "Goat"
+    "machine": "Goat",
+    "storage": "barn"
   },
   "Goat cheese": {
     "ingredients": {
@@ -678,7 +759,8 @@
     },
     "time": 90,
     "xp": 19,
-    "machine": "Dairy"
+    "machine": "Dairy",
+    "storage": "barn"
   },
   "Pizza": {
     "ingredients": {
@@ -688,13 +770,15 @@
     },
     "time": 15,
     "xp": 23,
-    "machine": "Bakery"
+    "machine": "Bakery",
+    "storage": "barn"
   },
   "Coal": {
     "ingredients": {},
     "time": 0,
     "xp": 3,
-    "machine": "Mine"
+    "machine": "Mine",
+    "storage": "barn"
   },
   "Refined coal": {
     "ingredients": {
@@ -702,7 +786,8 @@
     },
     "time": 360,
     "xp": 13,
-    "machine": "Smelter"
+    "machine": "Smelter",
+    "storage": "barn"
   },
   "Cherry popsicle": {
     "ingredients": {
@@ -711,7 +796,8 @@
     },
     "time": 180,
     "xp": 42,
-    "machine": "Ice Cream Maker"
+    "machine": "Ice Cream Maker",
+    "storage": "barn"
   },
   "Strawberry": {
     "ingredients": {
@@ -719,7 +805,8 @@
     },
     "time": 480,
     "xp": 10,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Feta pie": {
     "ingredients": {
@@ -729,13 +816,15 @@
     },
     "time": 90,
     "xp": 26,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Iron ore": {
     "ingredients": {},
     "time": 0,
     "xp": 4,
-    "machine": "Mine"
+    "machine": "Mine",
+    "storage": "barn"
   },
   "Iron bar": {
     "ingredients": {
@@ -743,7 +832,8 @@
     },
     "time": 420,
     "xp": 15,
-    "machine": "Smelter"
+    "machine": "Smelter",
+    "storage": "barn"
   },
   "Strawberry ice cream": {
     "ingredients": {
@@ -754,7 +844,8 @@
     },
     "time": 240,
     "xp": 40,
-    "machine": "Ice Cream Maker"
+    "machine": "Ice Cream Maker",
+    "storage": "barn"
   },
   "Wheat bundle": {
     "ingredients": {
@@ -762,7 +853,8 @@
     },
     "time": 90,
     "xp": 10,
-    "machine": "Feed Mill"
+    "machine": "Feed Mill",
+    "storage": "barn"
   },
   "Meat bucket": {
     "ingredients": {
@@ -771,7 +863,8 @@
     },
     "time": 45,
     "xp": 15,
-    "machine": "Feed Mill"
+    "machine": "Feed Mill",
+    "storage": "barn"
   },
   "Potato": {
     "ingredients": {
@@ -779,7 +872,8 @@
     },
     "time": 220,
     "xp": 7,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Strawberry cake": {
     "ingredients": {
@@ -790,7 +884,8 @@
     },
     "time": 180,
     "xp": 38,
-    "machine": "Cake Oven"
+    "machine": "Cake Oven",
+    "storage": "barn"
   },
   "Baked potato": {
     "ingredients": {
@@ -801,7 +896,8 @@
     },
     "time": 35,
     "xp": 36,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Apple jam": {
     "ingredients": {
@@ -809,7 +905,8 @@
     },
     "time": 360,
     "xp": 26,
-    "machine": "Jam Maker"
+    "machine": "Jam Maker",
+    "storage": "barn"
   },
   "Chocolate cake": {
     "ingredients": {
@@ -819,7 +916,8 @@
     },
     "time": 120,
     "xp": 38,
-    "machine": "Cake Oven"
+    "machine": "Cake Oven",
+    "storage": "barn"
   },
   "Casserole": {
     "ingredients": {
@@ -830,13 +928,15 @@
     },
     "time": 120,
     "xp": 44,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Cacao": {
     "ingredients": {},
     "time": 2040,
     "xp": 16,
-    "machine": "Cacao tree"
+    "machine": "Cacao tree",
+    "storage": "silo"
   },
   "Raspberry jam": {
     "ingredients": {
@@ -844,7 +944,8 @@
     },
     "time": 420,
     "xp": 30,
-    "machine": "Jam Maker"
+    "machine": "Jam Maker",
+    "storage": "barn"
   },
   "Spicy pizza": {
     "ingredients": {
@@ -855,7 +956,8 @@
     },
     "time": 15,
     "xp": 27,
-    "machine": "Bakery"
+    "machine": "Bakery",
+    "storage": "barn"
   },
   "Blackberry jam": {
     "ingredients": {
@@ -863,7 +965,8 @@
     },
     "time": 480,
     "xp": 46,
-    "machine": "Jam Maker"
+    "machine": "Jam Maker",
+    "storage": "barn"
   },
   "Potato feta cake": {
     "ingredients": {
@@ -873,7 +976,8 @@
     },
     "time": 120,
     "xp": 37,
-    "machine": "Cake Oven"
+    "machine": "Cake Oven",
+    "storage": "barn"
   },
   "Cherry jam": {
     "ingredients": {
@@ -881,7 +985,8 @@
     },
     "time": 420,
     "xp": 40,
-    "machine": "Jam Maker"
+    "machine": "Jam Maker",
+    "storage": "barn"
   },
   "Bracelet": {
     "ingredients": {
@@ -890,7 +995,8 @@
     },
     "time": 120,
     "xp": 61,
-    "machine": "Jeweler"
+    "machine": "Jeweler",
+    "storage": "barn"
   },
   "Potato bread": {
     "ingredients": {
@@ -901,7 +1007,8 @@
     },
     "time": 45,
     "xp": 34,
-    "machine": "Bakery"
+    "machine": "Bakery",
+    "storage": "barn"
   },
   "Shepherd's pie": {
     "ingredients": {
@@ -912,7 +1019,8 @@
     },
     "time": 100,
     "xp": 34,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Chocolate ice cream": {
     "ingredients": {
@@ -923,13 +1031,15 @@
     },
     "time": 150,
     "xp": 41,
-    "machine": "Ice Cream Maker"
+    "machine": "Ice Cream Maker",
+    "storage": "barn"
   },
   "Honeycomb": {
     "ingredients": {},
     "time": 0,
     "xp": 8,
-    "machine": "Beehive tree"
+    "machine": "Beehive tree",
+    "storage": "barn"
   },
   "Necklace": {
     "ingredients": {
@@ -939,7 +1049,8 @@
     },
     "time": 180,
     "xp": 87,
-    "machine": "Jeweler"
+    "machine": "Jeweler",
+    "storage": "barn"
   },
   "Honey": {
     "ingredients": {
@@ -947,7 +1058,8 @@
     },
     "time": 20,
     "xp": 19,
-    "machine": "Honey Extractor"
+    "machine": "Honey Extractor",
+    "storage": "barn"
   },
   "Honey popcorn": {
     "ingredients": {
@@ -956,7 +1068,8 @@
     },
     "time": 90,
     "xp": 43,
-    "machine": "Popcorn Pot"
+    "machine": "Popcorn Pot",
+    "storage": "barn"
   },
   "Diamond ring": {
     "ingredients": {
@@ -966,7 +1079,8 @@
     },
     "time": 240,
     "xp": 98,
-    "machine": "Jeweler"
+    "machine": "Jeweler",
+    "storage": "barn"
   },
   "Fish and chips": {
     "ingredients": {
@@ -975,7 +1089,8 @@
     },
     "time": 90,
     "xp": 29,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Iron bracelet": {
     "ingredients": {
@@ -985,13 +1100,15 @@
     },
     "time": 90,
     "xp": 79,
-    "machine": "Jeweler"
+    "machine": "Jeweler",
+    "storage": "barn"
   },
   "Coffee bean": {
     "ingredients": {},
     "time": 1500,
     "xp": 12,
-    "machine": "Coffee bush"
+    "machine": "Coffee bush",
+    "storage": "silo"
   },
   "Espresso": {
     "ingredients": {
@@ -1000,7 +1117,8 @@
     },
     "time": 5,
     "xp": 29,
-    "machine": "Coffee Kiosk"
+    "machine": "Coffee Kiosk",
+    "storage": "barn"
   },
   "Honey apple cake": {
     "ingredients": {
@@ -1011,7 +1129,8 @@
     },
     "time": 200,
     "xp": 57,
-    "machine": "Cake Oven"
+    "machine": "Cake Oven",
+    "storage": "barn"
   },
   "Caff\u00e8 latte": {
     "ingredients": {
@@ -1021,7 +1140,8 @@
     },
     "time": 10,
     "xp": 26,
-    "machine": "Coffee Kiosk"
+    "machine": "Coffee Kiosk",
+    "storage": "barn"
   },
   "Chocolate popcorn": {
     "ingredients": {
@@ -1030,13 +1150,15 @@
     },
     "time": 150,
     "xp": 29,
-    "machine": "Popcorn Pot"
+    "machine": "Popcorn Pot",
+    "storage": "barn"
   },
   "Lobster trap": {
     "ingredients": {},
     "time": 120,
     "xp": 5,
-    "machine": "Net Maker"
+    "machine": "Net Maker",
+    "storage": "barn"
   },
   "Lobster tail": {
     "ingredients": {
@@ -1044,7 +1166,8 @@
     },
     "time": 360,
     "xp": 24,
-    "machine": "Lobster Pool"
+    "machine": "Lobster Pool",
+    "storage": "barn"
   },
   "Frutti di Mare pizza": {
     "ingredients": {
@@ -1055,9 +1178,10 @@
     },
     "time": 15,
     "xp": 48,
-    "machine": "Bakery"
+    "machine": "Bakery",
+    "storage": "barn"
   },
-  "Caffè mocha": {
+  "Caff\u00e8 mocha": {
     "ingredients": {
       "Coffee bean": 1,
       "Cream": 1,
@@ -1065,7 +1189,8 @@
     },
     "time": 15,
     "xp": 35,
-    "machine": "Coffee Kiosk"
+    "machine": "Coffee Kiosk",
+    "storage": "barn"
   },
   "Chamomile": {
     "ingredients": {
@@ -1073,7 +1198,8 @@
     },
     "time": 20,
     "xp": 2,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Soothing pad": {
     "ingredients": {
@@ -1083,7 +1209,8 @@
     },
     "time": 60,
     "xp": 39,
-    "machine": "Sewing Machine"
+    "machine": "Sewing Machine",
+    "storage": "barn"
   },
   "Raspberry mocha": {
     "ingredients": {
@@ -1094,7 +1221,8 @@
     },
     "time": 30,
     "xp": 31,
-    "machine": "Coffee Kiosk"
+    "machine": "Coffee Kiosk",
+    "storage": "barn"
   },
   "Lobster soup": {
     "ingredients": {
@@ -1105,7 +1233,8 @@
     },
     "time": 150,
     "xp": 73,
-    "machine": "Soup Kitchen"
+    "machine": "Soup Kitchen",
+    "storage": "barn"
   },
   "Hot chocolate": {
     "ingredients": {
@@ -1116,7 +1245,8 @@
     },
     "time": 25,
     "xp": 38,
-    "machine": "Coffee Kiosk"
+    "machine": "Coffee Kiosk",
+    "storage": "barn"
   },
   "Tomato soup": {
     "ingredients": {
@@ -1127,7 +1257,8 @@
     },
     "time": 90,
     "xp": 57,
-    "machine": "Soup Kitchen"
+    "machine": "Soup Kitchen",
+    "storage": "barn"
   },
   "Red scarf": {
     "ingredients": {
@@ -1136,7 +1267,8 @@
     },
     "time": 150,
     "xp": 34,
-    "machine": "Loom"
+    "machine": "Loom",
+    "storage": "barn"
   },
   "Lobster skewer": {
     "ingredients": {
@@ -1146,7 +1278,8 @@
     },
     "time": 40,
     "xp": 50,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Beeswax": {
     "ingredients": {
@@ -1154,7 +1287,8 @@
     },
     "time": 45,
     "xp": 28,
-    "machine": "Honey Extractor"
+    "machine": "Honey Extractor",
+    "storage": "barn"
   },
   "Strawberry candle": {
     "ingredients": {
@@ -1163,7 +1297,8 @@
     },
     "time": 120,
     "xp": 44,
-    "machine": "Candle Maker"
+    "machine": "Candle Maker",
+    "storage": "barn"
   },
   "Rustic bouquet": {
     "ingredients": {
@@ -1173,7 +1308,8 @@
     },
     "time": 45,
     "xp": 25,
-    "machine": "Flower Shop"
+    "machine": "Flower Shop",
+    "storage": "barn"
   },
   "Pumpkin soup": {
     "ingredients": {
@@ -1184,7 +1320,8 @@
     },
     "time": 120,
     "xp": 47,
-    "machine": "Soup Kitchen"
+    "machine": "Soup Kitchen",
+    "storage": "barn"
   },
   "Asparagus": {
     "ingredients": {
@@ -1192,7 +1329,8 @@
     },
     "time": 360,
     "xp": 8,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Asparagus quiche": {
     "ingredients": {
@@ -1203,7 +1341,8 @@
     },
     "time": 120,
     "xp": 36,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Strawberry jam": {
     "ingredients": {
@@ -1211,13 +1350,15 @@
     },
     "time": 450,
     "xp": 32,
-    "machine": "Jam Maker"
+    "machine": "Jam Maker",
+    "storage": "barn"
   },
   "Duck trap": {
     "ingredients": {},
     "time": 60,
     "xp": 3,
-    "machine": "Net Maker"
+    "machine": "Net Maker",
+    "storage": "barn"
   },
   "Duck feather": {
     "ingredients": {
@@ -1225,7 +1366,8 @@
     },
     "time": 180,
     "xp": 17,
-    "machine": "Duck Salon"
+    "machine": "Duck Salon",
+    "storage": "barn"
   },
   "Sesame": {
     "ingredients": {
@@ -1233,7 +1375,8 @@
     },
     "time": 60,
     "xp": 4,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Sesame ice cream": {
     "ingredients": {
@@ -1243,7 +1386,8 @@
     },
     "time": 120,
     "xp": 21,
-    "machine": "Ice Cream Maker"
+    "machine": "Ice Cream Maker",
+    "storage": "barn"
   },
   "Caramel apple": {
     "ingredients": {
@@ -1252,7 +1396,8 @@
     },
     "time": 120,
     "xp": 31,
-    "machine": "Candy Machine"
+    "machine": "Candy Machine",
+    "storage": "barn"
   },
   "Pillow": {
     "ingredients": {
@@ -1261,7 +1406,8 @@
     },
     "time": 180,
     "xp": 81,
-    "machine": "Sewing Machine"
+    "machine": "Sewing Machine",
+    "storage": "barn"
   },
   "Asparagus soup": {
     "ingredients": {
@@ -1270,7 +1416,8 @@
     },
     "time": 60,
     "xp": 30,
-    "machine": "Soup Kitchen"
+    "machine": "Soup Kitchen",
+    "storage": "barn"
   },
   "Toffee": {
     "ingredients": {
@@ -1280,7 +1427,8 @@
     },
     "time": 90,
     "xp": 21,
-    "machine": "Candy Machine"
+    "machine": "Candy Machine",
+    "storage": "barn"
   },
   "Raspberry candle": {
     "ingredients": {
@@ -1289,7 +1437,8 @@
     },
     "time": 105,
     "xp": 43,
-    "machine": "Candle Maker"
+    "machine": "Candle Maker",
+    "storage": "barn"
   },
   "Pineapple": {
     "ingredients": {
@@ -1297,7 +1446,8 @@
     },
     "time": 30,
     "xp": 3,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Pineapple juice": {
     "ingredients": {
@@ -1305,7 +1455,8 @@
     },
     "time": 45,
     "xp": 8,
-    "machine": "Juice Press"
+    "machine": "Juice Press",
+    "storage": "barn"
   },
   "Fish soup": {
     "ingredients": {
@@ -1316,7 +1467,8 @@
     },
     "time": 180,
     "xp": 35,
-    "machine": "Soup Kitchen"
+    "machine": "Soup Kitchen",
+    "storage": "barn"
   },
   "Lily": {
     "ingredients": {
@@ -1324,7 +1476,8 @@
     },
     "time": 90,
     "xp": 5,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Soy sauce": {
     "ingredients": {
@@ -1333,7 +1486,8 @@
     },
     "time": 180,
     "xp": 19,
-    "machine": "Sauce Maker"
+    "machine": "Sauce Maker",
+    "storage": "barn"
   },
   "Chocolate": {
     "ingredients": {
@@ -1343,7 +1497,8 @@
     },
     "time": 1200,
     "xp": 55,
-    "machine": "Candy Machine"
+    "machine": "Candy Machine",
+    "storage": "barn"
   },
   "Fancy cake": {
     "ingredients": {
@@ -1354,7 +1509,8 @@
     },
     "time": 15,
     "xp": 49,
-    "machine": "Cake Oven"
+    "machine": "Cake Oven",
+    "storage": "barn"
   },
   "Rice": {
     "ingredients": {
@@ -1362,7 +1518,8 @@
     },
     "time": 45,
     "xp": 3,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Sushi roll": {
     "ingredients": {
@@ -1372,13 +1529,15 @@
     },
     "time": 60,
     "xp": 58,
-    "machine": "Sushi Bar"
+    "machine": "Sushi Bar",
+    "storage": "barn"
   },
   "Olive": {
     "ingredients": {},
     "time": 1440,
     "xp": 17,
-    "machine": "Olive Tree"
+    "machine": "Olive Tree",
+    "storage": "silo"
   },
   "Lollipop": {
     "ingredients": {
@@ -1388,7 +1547,8 @@
     },
     "time": 720,
     "xp": 41,
-    "machine": "Candy Machine"
+    "machine": "Candy Machine",
+    "storage": "barn"
   },
   "Lettuce": {
     "ingredients": {
@@ -1396,7 +1556,8 @@
     },
     "time": 210,
     "xp": 7,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Feta salad": {
     "ingredients": {
@@ -1407,7 +1568,8 @@
     },
     "time": 90,
     "xp": 89,
-    "machine": "Salad Bar"
+    "machine": "Salad Bar",
+    "storage": "barn"
   },
   "Lobster sushi": {
     "ingredients": {
@@ -1417,7 +1579,8 @@
     },
     "time": 60,
     "xp": 76,
-    "machine": "Sushi Bar"
+    "machine": "Sushi Bar",
+    "storage": "barn"
   },
   "Blanket": {
     "ingredients": {
@@ -1427,7 +1590,8 @@
     },
     "time": 210,
     "xp": 131,
-    "machine": "Sewing Machine"
+    "machine": "Sewing Machine",
+    "storage": "barn"
   },
   "Jelly beans": {
     "ingredients": {
@@ -1437,7 +1601,8 @@
     },
     "time": 1440,
     "xp": 81,
-    "machine": "Candy Machine"
+    "machine": "Candy Machine",
+    "storage": "barn"
   },
   "Olive oil": {
     "ingredients": {
@@ -1445,7 +1610,8 @@
     },
     "time": 45,
     "xp": 33,
-    "machine": "Sauce Maker"
+    "machine": "Sauce Maker",
+    "storage": "barn"
   },
   "Garlic": {
     "ingredients": {
@@ -1453,7 +1619,8 @@
     },
     "time": 30,
     "xp": 3,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Garlic bread": {
     "ingredients": {
@@ -1463,7 +1630,8 @@
     },
     "time": 15,
     "xp": 24,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Veggie bagel": {
     "ingredients": {
@@ -1474,7 +1642,8 @@
     },
     "time": 40,
     "xp": 63,
-    "machine": "Sandwich Bar"
+    "machine": "Sandwich Bar",
+    "storage": "barn"
   },
   "Mayonnaise": {
     "ingredients": {
@@ -1483,7 +1652,8 @@
     },
     "time": 15,
     "xp": 44,
-    "machine": "Sauce Maker"
+    "machine": "Sauce Maker",
+    "storage": "barn"
   },
   "BLT salad": {
     "ingredients": {
@@ -1494,7 +1664,8 @@
     },
     "time": 105,
     "xp": 86,
-    "machine": "Salad Bar"
+    "machine": "Salad Bar",
+    "storage": "barn"
   },
   "Caramel latte": {
     "ingredients": {
@@ -1504,13 +1675,15 @@
     },
     "time": 15,
     "xp": 41,
-    "machine": "Coffee Kiosk"
+    "machine": "Coffee Kiosk",
+    "storage": "barn"
   },
   "Peanuts": {
     "ingredients": {},
     "time": 0,
     "xp": 43,
-    "machine": "Squirrel House"
+    "machine": "Squirrel House",
+    "storage": "barn"
   },
   "Sunflower": {
     "ingredients": {
@@ -1518,7 +1691,8 @@
     },
     "time": 90,
     "xp": 5,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Egg sushi": {
     "ingredients": {
@@ -1529,7 +1703,8 @@
     },
     "time": 120,
     "xp": 66,
-    "machine": "Sushi Bar"
+    "machine": "Sushi Bar",
+    "storage": "barn"
   },
   "Honey peanuts": {
     "ingredients": {
@@ -1538,7 +1713,8 @@
     },
     "time": 40,
     "xp": 64,
-    "machine": "Candy Machine"
+    "machine": "Candy Machine",
+    "storage": "barn"
   },
   "Seafood salad": {
     "ingredients": {
@@ -1549,7 +1725,8 @@
     },
     "time": 120,
     "xp": 91,
-    "machine": "Salad Bar"
+    "machine": "Salad Bar",
+    "storage": "barn"
   },
   "Berry smoothie": {
     "ingredients": {
@@ -1559,7 +1736,8 @@
     },
     "time": 75,
     "xp": 65,
-    "machine": "Smoothie Mixer"
+    "machine": "Smoothie Mixer",
+    "storage": "barn"
   },
   "Snack mix": {
     "ingredients": {
@@ -1569,7 +1747,8 @@
     },
     "time": 45,
     "xp": 50,
-    "machine": "Popcorn Pot"
+    "machine": "Popcorn Pot",
+    "storage": "barn"
   },
   "Bright bouquet": {
     "ingredients": {
@@ -1580,7 +1759,8 @@
     },
     "time": 20,
     "xp": 40,
-    "machine": "Flower Shop"
+    "machine": "Flower Shop",
+    "storage": "barn"
   },
   "Bacon toast": {
     "ingredients": {
@@ -1591,7 +1771,8 @@
     },
     "time": 100,
     "xp": 77,
-    "machine": "Sandwich Bar"
+    "machine": "Sandwich Bar",
+    "storage": "barn"
   },
   "Pineapple cake": {
     "ingredients": {
@@ -1602,7 +1783,8 @@
     },
     "time": 75,
     "xp": 31,
-    "machine": "Cake Oven"
+    "machine": "Cake Oven",
+    "storage": "barn"
   },
   "Chocolate pie": {
     "ingredients": {
@@ -1613,7 +1795,8 @@
     },
     "time": 75,
     "xp": 70,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Cabbage": {
     "ingredients": {
@@ -1621,7 +1804,8 @@
     },
     "time": 45,
     "xp": 3,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Cabbage soup": {
     "ingredients": {
@@ -1632,13 +1816,15 @@
     },
     "time": 90,
     "xp": 32,
-    "machine": "Soup Kitchen"
+    "machine": "Soup Kitchen",
+    "storage": "barn"
   },
   "Lemon": {
     "ingredients": {},
     "time": 1740,
     "xp": 18,
-    "machine": "Lemon tree"
+    "machine": "Lemon tree",
+    "storage": "silo"
   },
   "Lemon curd": {
     "ingredients": {
@@ -1649,7 +1835,8 @@
     },
     "time": 25,
     "xp": 45,
-    "machine": "Sauce Maker"
+    "machine": "Sauce Maker",
+    "storage": "barn"
   },
   "Olive dip": {
     "ingredients": {
@@ -1660,7 +1847,8 @@
     },
     "time": 45,
     "xp": 56,
-    "machine": "Sauce Maker"
+    "machine": "Sauce Maker",
+    "storage": "barn"
   },
   "Egg sandwich": {
     "ingredients": {
@@ -1671,7 +1859,8 @@
     },
     "time": 80,
     "xp": 69,
-    "machine": "Sandwich Bar"
+    "machine": "Sandwich Bar",
+    "storage": "barn"
   },
   "Green smoothie": {
     "ingredients": {
@@ -1681,7 +1870,8 @@
     },
     "time": 45,
     "xp": 38,
-    "machine": "Smoothie Mixer"
+    "machine": "Smoothie Mixer",
+    "storage": "barn"
   },
   "Fresh pasta": {
     "ingredients": {
@@ -1690,7 +1880,8 @@
     },
     "time": 15,
     "xp": 5,
-    "machine": "Pasta Maker"
+    "machine": "Pasta Maker",
+    "storage": "barn"
   },
   "Pasta salad": {
     "ingredients": {
@@ -1701,7 +1892,8 @@
     },
     "time": 150,
     "xp": 90,
-    "machine": "Salad Bar"
+    "machine": "Salad Bar",
+    "storage": "barn"
   },
   "Lemon pie": {
     "ingredients": {
@@ -1711,7 +1903,8 @@
     },
     "time": 135,
     "xp": 53,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Grilled asparagus": {
     "ingredients": {
@@ -1721,7 +1914,8 @@
     },
     "time": 75,
     "xp": 58,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Onion": {
     "ingredients": {
@@ -1729,7 +1923,8 @@
     },
     "time": 300,
     "xp": 8,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Grilled onion": {
     "ingredients": {
@@ -1738,7 +1933,8 @@
     },
     "time": 60,
     "xp": 23,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Lemon cake": {
     "ingredients": {
@@ -1749,7 +1945,8 @@
     },
     "time": 150,
     "xp": 107,
-    "machine": "Cake Oven"
+    "machine": "Cake Oven",
+    "storage": "barn"
   },
   "Lemon essential oil": {
     "ingredients": {
@@ -1757,7 +1954,8 @@
     },
     "time": 10,
     "xp": 34,
-    "machine": "Essential Oils Lab"
+    "machine": "Essential Oils Lab",
+    "storage": "barn"
   },
   "Peanut butter milkshake": {
     "ingredients": {
@@ -1768,7 +1966,8 @@
     },
     "time": 100,
     "xp": 86,
-    "machine": "Ice Cream Maker"
+    "machine": "Ice Cream Maker",
+    "storage": "barn"
   },
   "Tomato sauce": {
     "ingredients": {
@@ -1778,7 +1977,8 @@
     },
     "time": 30,
     "xp": 27,
-    "machine": "Sauce Maker"
+    "machine": "Sauce Maker",
+    "storage": "barn"
   },
   "Honey toast": {
     "ingredients": {
@@ -1789,7 +1989,8 @@
     },
     "time": 60,
     "xp": 31,
-    "machine": "Sandwich Bar"
+    "machine": "Sandwich Bar",
+    "storage": "barn"
   },
   "Fried rice": {
     "ingredients": {
@@ -1798,7 +1999,8 @@
     },
     "time": 60,
     "xp": 24,
-    "machine": "Wok Kitchen"
+    "machine": "Wok Kitchen",
+    "storage": "barn"
   },
   "Yogurt smoothie": {
     "ingredients": {
@@ -1809,7 +2011,8 @@
     },
     "time": 60,
     "xp": 42,
-    "machine": "Smoothie Mixer"
+    "machine": "Smoothie Mixer",
+    "storage": "barn"
   },
   "Cloche hat": {
     "ingredients": {
@@ -1818,7 +2021,8 @@
     },
     "time": 120,
     "xp": 56,
-    "machine": "Hat Maker"
+    "machine": "Hat Maker",
+    "storage": "barn"
   },
   "Cucumber": {
     "ingredients": {
@@ -1826,7 +2030,8 @@
     },
     "time": 35,
     "xp": 3,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Cucumber smoothie": {
     "ingredients": {
@@ -1836,13 +2041,15 @@
     },
     "time": 40,
     "xp": 32,
-    "machine": "Smoothie Mixer"
+    "machine": "Smoothie Mixer",
+    "storage": "barn"
   },
   "Orange": {
     "ingredients": {},
     "time": 1860,
     "xp": 19,
-    "machine": "Orange tree"
+    "machine": "Orange tree",
+    "storage": "silo"
   },
   "Flower shawl": {
     "ingredients": {
@@ -1852,7 +2059,8 @@
     },
     "time": 90,
     "xp": 35,
-    "machine": "Loom"
+    "machine": "Loom",
+    "storage": "barn"
   },
   "Orange juice": {
     "ingredients": {
@@ -1860,7 +2068,8 @@
     },
     "time": 120,
     "xp": 28,
-    "machine": "Juice Press"
+    "machine": "Juice Press",
+    "storage": "barn"
   },
   "Peanut butter and jelly sandwich": {
     "ingredients": {
@@ -1870,7 +2079,8 @@
     },
     "time": 25,
     "xp": 80,
-    "machine": "Sandwich Bar"
+    "machine": "Sandwich Bar",
+    "storage": "barn"
   },
   "Onion soup": {
     "ingredients": {
@@ -1880,7 +2090,8 @@
     },
     "time": 150,
     "xp": 39,
-    "machine": "Soup Kitchen"
+    "machine": "Soup Kitchen",
+    "storage": "barn"
   },
   "Lemon candle": {
     "ingredients": {
@@ -1889,7 +2100,8 @@
     },
     "time": 135,
     "xp": 55,
-    "machine": "Candle Maker"
+    "machine": "Candle Maker",
+    "storage": "barn"
   },
   "Top hat": {
     "ingredients": {
@@ -1899,7 +2111,8 @@
     },
     "time": 210,
     "xp": 74,
-    "machine": "Hat Maker"
+    "machine": "Hat Maker",
+    "storage": "barn"
   },
   "Gnocchi": {
     "ingredients": {
@@ -1910,7 +2123,8 @@
     },
     "time": 80,
     "xp": 57,
-    "machine": "Pasta Kitchen"
+    "machine": "Pasta Kitchen",
+    "storage": "barn"
   },
   "Beetroot": {
     "ingredients": {
@@ -1918,7 +2132,8 @@
     },
     "time": 40,
     "xp": 3,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Winter veggies": {
     "ingredients": {
@@ -1929,7 +2144,8 @@
     },
     "time": 25,
     "xp": 24,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Rice noodles": {
     "ingredients": {
@@ -1937,7 +2153,8 @@
     },
     "time": 20,
     "xp": 12,
-    "machine": "Pasta Maker"
+    "machine": "Pasta Maker",
+    "storage": "barn"
   },
   "Noodle soup": {
     "ingredients": {
@@ -1948,7 +2165,8 @@
     },
     "time": 120,
     "xp": 52,
-    "machine": "Soup Kitchen"
+    "machine": "Soup Kitchen",
+    "storage": "barn"
   },
   "Gracious bouquet": {
     "ingredients": {
@@ -1959,7 +2177,8 @@
     },
     "time": 40,
     "xp": 60,
-    "machine": "Flower Shop"
+    "machine": "Flower Shop",
+    "storage": "barn"
   },
   "Bell pepper": {
     "ingredients": {
@@ -1967,7 +2186,8 @@
     },
     "time": 270,
     "xp": 7,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Marmalade": {
     "ingredients": {
@@ -1975,7 +2195,8 @@
     },
     "time": 510,
     "xp": 54,
-    "machine": "Jam Maker"
+    "machine": "Jam Maker",
+    "storage": "barn"
   },
   "Sun hat": {
     "ingredients": {
@@ -1986,7 +2207,8 @@
     },
     "time": 150,
     "xp": 66,
-    "machine": "Hat Maker"
+    "machine": "Hat Maker",
+    "storage": "barn"
   },
   "Veggie lasagna": {
     "ingredients": {
@@ -1997,7 +2219,8 @@
     },
     "time": 100,
     "xp": 63,
-    "machine": "Pasta Kitchen"
+    "machine": "Pasta Kitchen",
+    "storage": "barn"
   },
   "Veggie platter": {
     "ingredients": {
@@ -2008,7 +2231,8 @@
     },
     "time": 120,
     "xp": 32,
-    "machine": "Salad Bar"
+    "machine": "Salad Bar",
+    "storage": "barn"
   },
   "Chamomile essential oil": {
     "ingredients": {
@@ -2016,7 +2240,8 @@
     },
     "time": 10,
     "xp": 8,
-    "machine": "Essential Oils Lab"
+    "machine": "Essential Oils Lab",
+    "storage": "barn"
   },
   "Hot dog": {
     "ingredients": {
@@ -2026,7 +2251,8 @@
     },
     "time": 30,
     "xp": 44,
-    "machine": "Hot Dog Stand"
+    "machine": "Hot Dog Stand",
+    "storage": "barn"
   },
   "Coleslaw": {
     "ingredients": {
@@ -2036,7 +2262,8 @@
     },
     "time": 75,
     "xp": 56,
-    "machine": "Salad Bar"
+    "machine": "Salad Bar",
+    "storage": "barn"
   },
   "Cotton candy": {
     "ingredients": {
@@ -2045,13 +2272,15 @@
     },
     "time": 30,
     "xp": 27,
-    "machine": "Candy Machine"
+    "machine": "Candy Machine",
+    "storage": "barn"
   },
   "Peach": {
     "ingredients": {},
     "time": 1800,
     "xp": 20,
-    "machine": "Peach tree"
+    "machine": "Peach tree",
+    "storage": "silo"
   },
   "Peach tart": {
     "ingredients": {
@@ -2062,7 +2291,8 @@
     },
     "time": 150,
     "xp": 52,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Tofu dog": {
     "ingredients": {
@@ -2072,7 +2302,8 @@
     },
     "time": 45,
     "xp": 44,
-    "machine": "Hot Dog Stand"
+    "machine": "Hot Dog Stand",
+    "storage": "barn"
   },
   "Big sushi roll": {
     "ingredients": {
@@ -2083,7 +2314,8 @@
     },
     "time": 90,
     "xp": 77,
-    "machine": "Sushi Bar"
+    "machine": "Sushi Bar",
+    "storage": "barn"
   },
   "Beetroot salad": {
     "ingredients": {
@@ -2092,7 +2324,8 @@
     },
     "time": 45,
     "xp": 28,
-    "machine": "Salad Bar"
+    "machine": "Salad Bar",
+    "storage": "barn"
   },
   "Plain donut": {
     "ingredients": {
@@ -2103,7 +2336,8 @@
     },
     "time": 15,
     "xp": 15,
-    "machine": "Donut Maker"
+    "machine": "Donut Maker",
+    "storage": "barn"
   },
   "Salsa": {
     "ingredients": {
@@ -2113,7 +2347,8 @@
     },
     "time": 20,
     "xp": 30,
-    "machine": "Sauce Maker"
+    "machine": "Sauce Maker",
+    "storage": "barn"
   },
   "Taco": {
     "ingredients": {
@@ -2123,7 +2358,8 @@
     },
     "time": 45,
     "xp": 47,
-    "machine": "Taco Kitchen"
+    "machine": "Taco Kitchen",
+    "storage": "barn"
   },
   "Colourful omelet": {
     "ingredients": {
@@ -2134,7 +2370,8 @@
     },
     "time": 60,
     "xp": 16,
-    "machine": "Omelet Station"
+    "machine": "Omelet Station",
+    "storage": "barn"
   },
   "Spring omelet": {
     "ingredients": {
@@ -2144,7 +2381,8 @@
     },
     "time": 40,
     "xp": 27,
-    "machine": "Omelet Station"
+    "machine": "Omelet Station",
+    "storage": "barn"
   },
   "Summer rolls": {
     "ingredients": {
@@ -2155,7 +2393,8 @@
     },
     "time": 60,
     "xp": 38,
-    "machine": "Salad Bar"
+    "machine": "Salad Bar",
+    "storage": "barn"
   },
   "Orange sorbet": {
     "ingredients": {
@@ -2164,7 +2403,8 @@
     },
     "time": 210,
     "xp": 48,
-    "machine": "Ice Cream Maker"
+    "machine": "Ice Cream Maker",
+    "storage": "barn"
   },
   "Corn dog": {
     "ingredients": {
@@ -2174,7 +2414,8 @@
     },
     "time": 60,
     "xp": 63,
-    "machine": "Hot Dog Stand"
+    "machine": "Hot Dog Stand",
+    "storage": "barn"
   },
   "Potato soup": {
     "ingredients": {
@@ -2184,7 +2425,8 @@
     },
     "time": 150,
     "xp": 31,
-    "machine": "Soup Kitchen"
+    "machine": "Soup Kitchen",
+    "storage": "barn"
   },
   "Ginger": {
     "ingredients": {
@@ -2192,7 +2434,8 @@
     },
     "time": 150,
     "xp": 6,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Sesame brittle": {
     "ingredients": {
@@ -2202,7 +2445,8 @@
     },
     "time": 60,
     "xp": 32,
-    "machine": "Candy Machine"
+    "machine": "Candy Machine",
+    "storage": "barn"
   },
   "Affogato": {
     "ingredients": {
@@ -2211,7 +2455,8 @@
     },
     "time": 20,
     "xp": 56,
-    "machine": "Ice Cream Maker"
+    "machine": "Ice Cream Maker",
+    "storage": "barn"
   },
   "Fish taco": {
     "ingredients": {
@@ -2222,7 +2467,8 @@
     },
     "time": 90,
     "xp": 47,
-    "machine": "Taco Kitchen"
+    "machine": "Taco Kitchen",
+    "storage": "barn"
   },
   "Peach jam": {
     "ingredients": {
@@ -2230,7 +2476,8 @@
     },
     "time": 480,
     "xp": 55,
-    "machine": "Jam Maker"
+    "machine": "Jam Maker",
+    "storage": "barn"
   },
   "Lobster pasta": {
     "ingredients": {
@@ -2241,7 +2488,8 @@
     },
     "time": 120,
     "xp": 76,
-    "machine": "Pasta Kitchen"
+    "machine": "Pasta Kitchen",
+    "storage": "barn"
   },
   "Cucumber sandwich": {
     "ingredients": {
@@ -2251,7 +2499,8 @@
     },
     "time": 35,
     "xp": 55,
-    "machine": "Sandwich Bar"
+    "machine": "Sandwich Bar",
+    "storage": "barn"
   },
   "Spicy fish": {
     "ingredients": {
@@ -2262,7 +2511,8 @@
     },
     "time": 90,
     "xp": 65,
-    "machine": "Wok Kitchen"
+    "machine": "Wok Kitchen",
+    "storage": "barn"
   },
   "Sprinkled donut": {
     "ingredients": {
@@ -2271,7 +2521,8 @@
     },
     "time": 20,
     "xp": 37,
-    "machine": "Donut Maker"
+    "machine": "Donut Maker",
+    "storage": "barn"
   },
   "Cheese omelet": {
     "ingredients": {
@@ -2282,7 +2533,8 @@
     },
     "time": 90,
     "xp": 55,
-    "machine": "Omelet Station"
+    "machine": "Omelet Station",
+    "storage": "barn"
   },
   "Tea leaf": {
     "ingredients": {
@@ -2290,7 +2542,8 @@
     },
     "time": 390,
     "xp": 9,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Green tea": {
     "ingredients": {
@@ -2298,7 +2551,8 @@
     },
     "time": 30,
     "xp": 29,
-    "machine": "Tea Stand"
+    "machine": "Tea Stand",
+    "storage": "barn"
   },
   "Onion dog": {
     "ingredients": {
@@ -2309,7 +2563,8 @@
     },
     "time": 75,
     "xp": 36,
-    "machine": "Hot Dog Stand"
+    "machine": "Hot Dog Stand",
+    "storage": "barn"
   },
   "Stuffed peppers": {
     "ingredients": {
@@ -2320,7 +2575,8 @@
     },
     "time": 20,
     "xp": 42,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Ginger essential oil": {
     "ingredients": {
@@ -2328,7 +2584,8 @@
     },
     "time": 20,
     "xp": 19,
-    "machine": "Essential Oils Lab"
+    "machine": "Essential Oils Lab",
+    "storage": "barn"
   },
   "Milk tea": {
     "ingredients": {
@@ -2337,7 +2594,8 @@
     },
     "time": 45,
     "xp": 23,
-    "machine": "Tea Stand"
+    "machine": "Tea Stand",
+    "storage": "barn"
   },
   "Bell pepper soup": {
     "ingredients": {
@@ -2348,7 +2606,8 @@
     },
     "time": 60,
     "xp": 52,
-    "machine": "Soup Kitchen"
+    "machine": "Soup Kitchen",
+    "storage": "barn"
   },
   "Chocolate fondue": {
     "ingredients": {
@@ -2357,7 +2616,8 @@
     },
     "time": 25,
     "xp": 74,
-    "machine": "Fondue Pot"
+    "machine": "Fondue Pot",
+    "storage": "barn"
   },
   "Peony": {
     "ingredients": {
@@ -2365,7 +2625,8 @@
     },
     "time": 240,
     "xp": 7,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Quesadilla": {
     "ingredients": {
@@ -2375,7 +2636,8 @@
     },
     "time": 60,
     "xp": 29,
-    "machine": "Taco Kitchen"
+    "machine": "Taco Kitchen",
+    "storage": "barn"
   },
   "Fruit salad": {
     "ingredients": {
@@ -2386,7 +2648,8 @@
     },
     "time": 120,
     "xp": 71,
-    "machine": "Salad Bar"
+    "machine": "Salad Bar",
+    "storage": "barn"
   },
   "Crunchy donut": {
     "ingredients": {
@@ -2396,7 +2659,8 @@
     },
     "time": 30,
     "xp": 71,
-    "machine": "Donut Maker"
+    "machine": "Donut Maker",
+    "storage": "barn"
   },
   "Pasta carbonara": {
     "ingredients": {
@@ -2407,7 +2671,8 @@
     },
     "time": 150,
     "xp": 49,
-    "machine": "Pasta Kitchen"
+    "machine": "Pasta Kitchen",
+    "storage": "barn"
   },
   "Peach ice cream": {
     "ingredients": {
@@ -2417,7 +2682,8 @@
     },
     "time": 180,
     "xp": 54,
-    "machine": "Ice Cream Maker"
+    "machine": "Ice Cream Maker",
+    "storage": "barn"
   },
   "Honey tea": {
     "ingredients": {
@@ -2426,7 +2692,8 @@
     },
     "time": 40,
     "xp": 37,
-    "machine": "Tea Stand"
+    "machine": "Tea Stand",
+    "storage": "barn"
   },
   "Broccoli": {
     "ingredients": {
@@ -2434,7 +2701,8 @@
     },
     "time": 90,
     "xp": 4,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Broccoli pasta": {
     "ingredients": {
@@ -2444,7 +2712,8 @@
     },
     "time": 60,
     "xp": 41,
-    "machine": "Pasta Kitchen"
+    "machine": "Pasta Kitchen",
+    "storage": "barn"
   },
   "Rice omelet": {
     "ingredients": {
@@ -2454,7 +2723,8 @@
     },
     "time": 120,
     "xp": 68,
-    "machine": "Omelet Station"
+    "machine": "Omelet Station",
+    "storage": "barn"
   },
   "Summer salad": {
     "ingredients": {
@@ -2465,7 +2735,8 @@
     },
     "time": 180,
     "xp": 66,
-    "machine": "Salad Bar"
+    "machine": "Salad Bar",
+    "storage": "barn"
   },
   "Grapes": {
     "ingredients": {
@@ -2473,7 +2744,8 @@
     },
     "time": 180,
     "xp": 6,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Grape juice": {
     "ingredients": {
@@ -2481,7 +2753,8 @@
     },
     "time": 150,
     "xp": 13,
-    "machine": "Juice Press"
+    "machine": "Juice Press",
+    "storage": "barn"
   },
   "Onion melt": {
     "ingredients": {
@@ -2491,7 +2764,8 @@
     },
     "time": 90,
     "xp": 50,
-    "machine": "Sandwich Bar"
+    "machine": "Sandwich Bar",
+    "storage": "barn"
   },
   "Honey soap": {
     "ingredients": {
@@ -2501,7 +2775,8 @@
     },
     "time": 60,
     "xp": 39,
-    "machine": "Bath Kiosk"
+    "machine": "Bath Kiosk",
+    "storage": "barn"
   },
   "Lemon lotion": {
     "ingredients": {
@@ -2510,7 +2785,8 @@
     },
     "time": 75,
     "xp": 48,
-    "machine": "Bath Kiosk"
+    "machine": "Bath Kiosk",
+    "storage": "barn"
   },
   "Colorful candles": {
     "ingredients": {
@@ -2520,7 +2796,8 @@
     },
     "time": 110,
     "xp": 39,
-    "machine": "Candle Maker"
+    "machine": "Candle Maker",
+    "storage": "barn"
   },
   "Mint": {
     "ingredients": {
@@ -2528,7 +2805,8 @@
     },
     "time": 180,
     "xp": 6,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Mint essential oil": {
     "ingredients": {
@@ -2536,7 +2814,8 @@
     },
     "time": 15,
     "xp": 20,
-    "machine": "Essential Oils Lab"
+    "machine": "Essential Oils Lab",
+    "storage": "barn"
   },
   "Grape jam": {
     "ingredients": {
@@ -2544,7 +2823,8 @@
     },
     "time": 390,
     "xp": 19,
-    "machine": "Jam Maker"
+    "machine": "Jam Maker",
+    "storage": "barn"
   },
   "Mint ice cream": {
     "ingredients": {
@@ -2555,7 +2835,8 @@
     },
     "time": 135,
     "xp": 34,
-    "machine": "Ice Cream Maker"
+    "machine": "Ice Cream Maker",
+    "storage": "barn"
   },
   "Flower crown": {
     "ingredients": {
@@ -2564,7 +2845,8 @@
     },
     "time": 120,
     "xp": 40,
-    "machine": "Hat Maker"
+    "machine": "Hat Maker",
+    "storage": "barn"
   },
   "Lemon tea": {
     "ingredients": {
@@ -2573,7 +2855,8 @@
     },
     "time": 20,
     "xp": 29,
-    "machine": "Tea Stand"
+    "machine": "Tea Stand",
+    "storage": "barn"
   },
   "Bacon fondue": {
     "ingredients": {
@@ -2584,7 +2867,8 @@
     },
     "time": 30,
     "xp": 60,
-    "machine": "Fondue Pot"
+    "machine": "Fondue Pot",
+    "storage": "barn"
   },
   "Peanut noodles": {
     "ingredients": {
@@ -2595,7 +2879,8 @@
     },
     "time": 45,
     "xp": 80,
-    "machine": "Wok Kitchen"
+    "machine": "Wok Kitchen",
+    "storage": "barn"
   },
   "Gingerbread cookie": {
     "ingredients": {
@@ -2606,7 +2891,8 @@
     },
     "time": 30,
     "xp": 33,
-    "machine": "Bakery"
+    "machine": "Bakery",
+    "storage": "barn"
   },
   "Cream donut": {
     "ingredients": {
@@ -2616,7 +2902,8 @@
     },
     "time": 25,
     "xp": 27,
-    "machine": "Donut Maker"
+    "machine": "Donut Maker",
+    "storage": "barn"
   },
   "Nachos": {
     "ingredients": {
@@ -2626,7 +2913,8 @@
     },
     "time": 75,
     "xp": 52,
-    "machine": "Taco Kitchen"
+    "machine": "Taco Kitchen",
+    "storage": "barn"
   },
   "Spicy pasta": {
     "ingredients": {
@@ -2637,7 +2925,8 @@
     },
     "time": 90,
     "xp": 69,
-    "machine": "Pasta Kitchen"
+    "machine": "Pasta Kitchen",
+    "storage": "barn"
   },
   "Broccoli soup": {
     "ingredients": {
@@ -2647,7 +2936,8 @@
     },
     "time": 75,
     "xp": 28,
-    "machine": "Soup Kitchen"
+    "machine": "Soup Kitchen",
+    "storage": "barn"
   },
   "Bacon fries": {
     "ingredients": {
@@ -2658,7 +2948,8 @@
     },
     "time": 25,
     "xp": 36,
-    "machine": "Deep Fryer"
+    "machine": "Deep Fryer",
+    "storage": "barn"
   },
   "Potato omelet": {
     "ingredients": {
@@ -2668,7 +2959,8 @@
     },
     "time": 75,
     "xp": 32,
-    "machine": "Omelet Station"
+    "machine": "Omelet Station",
+    "storage": "barn"
   },
   "Mixed smoothie": {
     "ingredients": {
@@ -2678,13 +2970,15 @@
     },
     "time": 30,
     "xp": 60,
-    "machine": "Smoothie Mixer"
+    "machine": "Smoothie Mixer",
+    "storage": "barn"
   },
   "Banana": {
     "ingredients": {},
     "time": 1620,
     "xp": 20,
-    "machine": "Banana tree"
+    "machine": "Banana tree",
+    "storage": "silo"
   },
   "Iced banana latte": {
     "ingredients": {
@@ -2694,7 +2988,8 @@
     },
     "time": 20,
     "xp": 33,
-    "machine": "Coffee Kiosk"
+    "machine": "Coffee Kiosk",
+    "storage": "barn"
   },
   "Apple ginger tea": {
     "ingredients": {
@@ -2704,7 +2999,8 @@
     },
     "time": 30,
     "xp": 20,
-    "machine": "Tea Stand"
+    "machine": "Tea Stand",
+    "storage": "barn"
   },
   "Bacon donut": {
     "ingredients": {
@@ -2714,7 +3010,8 @@
     },
     "time": 30,
     "xp": 46,
-    "machine": "Donut Maker"
+    "machine": "Donut Maker",
+    "storage": "barn"
   },
   "Passion fruit": {
     "ingredients": {
@@ -2722,7 +3019,8 @@
     },
     "time": 60,
     "xp": 4,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Passion fruit juice": {
     "ingredients": {
@@ -2730,7 +3028,8 @@
     },
     "time": 45,
     "xp": 8,
-    "machine": "Juice Press"
+    "machine": "Juice Press",
+    "storage": "barn"
   },
   "Orange tea": {
     "ingredients": {
@@ -2739,7 +3038,8 @@
     },
     "time": 40,
     "xp": 30,
-    "machine": "Tea Stand"
+    "machine": "Tea Stand",
+    "storage": "barn"
   },
   "Fruit cake": {
     "ingredients": {
@@ -2750,7 +3050,8 @@
     },
     "time": 180,
     "xp": 54,
-    "machine": "Cake Oven"
+    "machine": "Cake Oven",
+    "storage": "barn"
   },
   "Mushroom": {
     "ingredients": {
@@ -2758,7 +3059,8 @@
     },
     "time": 20,
     "xp": 2,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Mushroom salad": {
     "ingredients": {
@@ -2769,7 +3071,8 @@
     },
     "time": 60,
     "xp": 26,
-    "machine": "Salad Bar"
+    "machine": "Salad Bar",
+    "storage": "barn"
   },
   "Tofu stir fry": {
     "ingredients": {
@@ -2780,7 +3083,8 @@
     },
     "time": 75,
     "xp": 37,
-    "machine": "Wok Kitchen"
+    "machine": "Wok Kitchen",
+    "storage": "barn"
   },
   "Candy bouquet": {
     "ingredients": {
@@ -2790,7 +3094,8 @@
     },
     "time": 20,
     "xp": 66,
-    "machine": "Flower Shop"
+    "machine": "Flower Shop",
+    "storage": "barn"
   },
   "Eggplant": {
     "ingredients": {
@@ -2798,7 +3103,8 @@
     },
     "time": 40,
     "xp": 3,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Grilled eggplant": {
     "ingredients": {
@@ -2807,7 +3113,8 @@
     },
     "time": 40,
     "xp": 39,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Banana bread": {
     "ingredients": {
@@ -2818,7 +3125,8 @@
     },
     "time": 30,
     "xp": 50,
-    "machine": "Bakery"
+    "machine": "Bakery",
+    "storage": "barn"
   },
   "Cheese fondue": {
     "ingredients": {
@@ -2829,7 +3137,8 @@
     },
     "time": 20,
     "xp": 59,
-    "machine": "Fondue Pot"
+    "machine": "Fondue Pot",
+    "storage": "barn"
   },
   "Hand pies": {
     "ingredients": {
@@ -2839,7 +3148,8 @@
     },
     "time": 20,
     "xp": 35,
-    "machine": "Deep Fryer"
+    "machine": "Deep Fryer",
+    "storage": "barn"
   },
   "Pickles": {
     "ingredients": {
@@ -2849,7 +3159,8 @@
     },
     "time": 240,
     "xp": 32,
-    "machine": "Preservation Station"
+    "machine": "Preservation Station",
+    "storage": "barn"
   },
   "Watermelon": {
     "ingredients": {
@@ -2857,7 +3168,8 @@
     },
     "time": 300,
     "xp": 8,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Iced tea": {
     "ingredients": {
@@ -2866,7 +3178,8 @@
     },
     "time": 30,
     "xp": 30,
-    "machine": "Tea Stand"
+    "machine": "Tea Stand",
+    "storage": "barn"
   },
   "Goat cheese toast": {
     "ingredients": {
@@ -2876,7 +3189,8 @@
     },
     "time": 50,
     "xp": 36,
-    "machine": "Sandwich Bar"
+    "machine": "Sandwich Bar",
+    "storage": "barn"
   },
   "Watermelon juice": {
     "ingredients": {
@@ -2884,7 +3198,8 @@
     },
     "time": 60,
     "xp": 13,
-    "machine": "Juice Press"
+    "machine": "Juice Press",
+    "storage": "barn"
   },
   "Birthday bouquet": {
     "ingredients": {
@@ -2895,7 +3210,8 @@
     },
     "time": 20,
     "xp": 42,
-    "machine": "Flower Shop"
+    "machine": "Flower Shop",
+    "storage": "barn"
   },
   "Passion fruit pie": {
     "ingredients": {
@@ -2905,7 +3221,8 @@
     },
     "time": 50,
     "xp": 13,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Soft bouquet": {
     "ingredients": {
@@ -2915,7 +3232,8 @@
     },
     "time": 30,
     "xp": 36,
-    "machine": "Flower Shop"
+    "machine": "Flower Shop",
+    "storage": "barn"
   },
   "Black sesame smoothie": {
     "ingredients": {
@@ -2925,7 +3243,8 @@
     },
     "time": 45,
     "xp": 37,
-    "machine": "Smoothie Mixer"
+    "machine": "Smoothie Mixer",
+    "storage": "barn"
   },
   "Exfoliating soap": {
     "ingredients": {
@@ -2935,7 +3254,8 @@
     },
     "time": 60,
     "xp": 43,
-    "machine": "Bath Kiosk"
+    "machine": "Bath Kiosk",
+    "storage": "barn"
   },
   "Filled donut": {
     "ingredients": {
@@ -2944,13 +3264,15 @@
     },
     "time": 35,
     "xp": 48,
-    "machine": "Donut Maker"
+    "machine": "Donut Maker",
+    "storage": "barn"
   },
   "Plum": {
     "ingredients": {},
     "time": 1440,
     "xp": 16,
-    "machine": "Plum tree"
+    "machine": "Plum tree",
+    "storage": "barn"
   },
   "Banana pancakes": {
     "ingredients": {
@@ -2961,7 +3283,8 @@
     },
     "time": 60,
     "xp": 42,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Plum jam": {
     "ingredients": {
@@ -2969,7 +3292,8 @@
     },
     "time": 300,
     "xp": 46,
-    "machine": "Jam Maker"
+    "machine": "Jam Maker",
+    "storage": "barn"
   },
   "Clay": {
     "ingredients": {
@@ -2977,7 +3301,8 @@
     },
     "time": 110,
     "xp": 5,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Tea pot": {
     "ingredients": {
@@ -2987,7 +3312,8 @@
     },
     "time": 220,
     "xp": 26,
-    "machine": "Pottery Studio"
+    "machine": "Pottery Studio",
+    "storage": "barn"
   },
   "Floral candle": {
     "ingredients": {
@@ -2998,7 +3324,8 @@
     },
     "time": 120,
     "xp": 53,
-    "machine": "Candle Maker"
+    "machine": "Candle Maker",
+    "storage": "barn"
   },
   "Chocolate roll": {
     "ingredients": {
@@ -3009,7 +3336,8 @@
     },
     "time": 90,
     "xp": 72,
-    "machine": "Cake Oven"
+    "machine": "Cake Oven",
+    "storage": "barn"
   },
   "Canned fish": {
     "ingredients": {
@@ -3019,7 +3347,8 @@
     },
     "time": 220,
     "xp": 56,
-    "machine": "Preservation Station"
+    "machine": "Preservation Station",
+    "storage": "barn"
   },
   "Chickpea": {
     "ingredients": {
@@ -3027,7 +3356,8 @@
     },
     "time": 60,
     "xp": 4,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Hummus": {
     "ingredients": {
@@ -3037,7 +3367,8 @@
     },
     "time": 30,
     "xp": 33,
-    "machine": "Sauce Maker"
+    "machine": "Sauce Maker",
+    "storage": "barn"
   },
   "Banana split": {
     "ingredients": {
@@ -3047,7 +3378,8 @@
     },
     "time": 210,
     "xp": 48,
-    "machine": "Ice Cream Maker"
+    "machine": "Ice Cream Maker",
+    "storage": "barn"
   },
   "Fish skewer": {
     "ingredients": {
@@ -3058,7 +3390,8 @@
     },
     "time": 30,
     "xp": 21,
-    "machine": "BBQ Grill"
+    "machine": "BBQ Grill",
+    "storage": "barn"
   },
   "Passion fruit jam": {
     "ingredients": {
@@ -3066,7 +3399,8 @@
     },
     "time": 320,
     "xp": 14,
-    "machine": "Jam Maker"
+    "machine": "Jam Maker",
+    "storage": "barn"
   },
   "Potted plant": {
     "ingredients": {
@@ -3075,7 +3409,8 @@
     },
     "time": 220,
     "xp": 26,
-    "machine": "Pottery Studio"
+    "machine": "Pottery Studio",
+    "storage": "barn"
   },
   "Mint tea": {
     "ingredients": {
@@ -3085,7 +3420,8 @@
     },
     "time": 35,
     "xp": 31,
-    "machine": "Tea Stand"
+    "machine": "Tea Stand",
+    "storage": "barn"
   },
   "Mushroom pot pie": {
     "ingredients": {
@@ -3096,13 +3432,15 @@
     },
     "time": 60,
     "xp": 19,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Mango": {
     "ingredients": {},
     "time": 1920,
     "xp": 20,
-    "machine": "Mango tree"
+    "machine": "Mango tree",
+    "storage": "barn"
   },
   "Mango juice": {
     "ingredients": {
@@ -3110,7 +3448,8 @@
     },
     "time": 50,
     "xp": 27,
-    "machine": "Juice Press"
+    "machine": "Juice Press",
+    "storage": "barn"
   },
   "Flower pendant": {
     "ingredients": {
@@ -3120,7 +3459,8 @@
     },
     "time": 60,
     "xp": 83,
-    "machine": "Jeweler"
+    "machine": "Jeweler",
+    "storage": "barn"
   },
   "Chili poppers": {
     "ingredients": {
@@ -3131,7 +3471,8 @@
     },
     "time": 40,
     "xp": 48,
-    "machine": "Deep Fryer"
+    "machine": "Deep Fryer",
+    "storage": "barn"
   },
   "Falafel": {
     "ingredients": {
@@ -3142,7 +3483,8 @@
     },
     "time": 55,
     "xp": 27,
-    "machine": "Deep Fryer"
+    "machine": "Deep Fryer",
+    "storage": "barn"
   },
   "Kimchi": {
     "ingredients": {
@@ -3153,7 +3495,8 @@
     },
     "time": 300,
     "xp": 26,
-    "machine": "Preservation Station"
+    "machine": "Preservation Station",
+    "storage": "barn"
   },
   "Eggplant parmesan": {
     "ingredients": {
@@ -3163,7 +3506,8 @@
     },
     "time": 45,
     "xp": 53,
-    "machine": "Pie Oven"
+    "machine": "Pie Oven",
+    "storage": "barn"
   },
   "Honey face mask": {
     "ingredients": {
@@ -3173,7 +3517,8 @@
     },
     "time": 90,
     "xp": 38,
-    "machine": "Bath Kiosk"
+    "machine": "Bath Kiosk",
+    "storage": "barn"
   },
   "Clay mug": {
     "ingredients": {
@@ -3183,7 +3528,8 @@
     },
     "time": 200,
     "xp": 25,
-    "machine": "Pottery Studio"
+    "machine": "Pottery Studio",
+    "storage": "barn"
   },
   "Rich fudge": {
     "ingredients": {
@@ -3193,7 +3539,8 @@
     },
     "time": 120,
     "xp": 77,
-    "machine": "Fudge Shop"
+    "machine": "Fudge Shop",
+    "storage": "barn"
   },
   "Cocoa smoothie": {
     "ingredients": {
@@ -3203,7 +3550,8 @@
     },
     "time": 40,
     "xp": 61,
-    "machine": "Smoothie Mixer"
+    "machine": "Smoothie Mixer",
+    "storage": "barn"
   },
   "Fried candy bar": {
     "ingredients": {
@@ -3213,7 +3561,8 @@
     },
     "time": 15,
     "xp": 87,
-    "machine": "Deep Fryer"
+    "machine": "Deep Fryer",
+    "storage": "barn"
   },
   "Tart dressing": {
     "ingredients": {
@@ -3223,7 +3572,8 @@
     },
     "time": 30,
     "xp": 34,
-    "machine": "Sauce Maker"
+    "machine": "Sauce Maker",
+    "storage": "barn"
   },
   "Tropical fondue": {
     "ingredients": {
@@ -3234,7 +3584,8 @@
     },
     "time": 35,
     "xp": 50,
-    "machine": "Fondue Pot"
+    "machine": "Fondue Pot",
+    "storage": "barn"
   },
   "Chamomile tea": {
     "ingredients": {
@@ -3243,7 +3594,8 @@
     },
     "time": 20,
     "xp": 17,
-    "machine": "Tea Stand"
+    "machine": "Tea Stand",
+    "storage": "barn"
   },
   "Mushroom pasta": {
     "ingredients": {
@@ -3253,13 +3605,15 @@
     },
     "time": 75,
     "xp": 33,
-    "machine": "Pasta Kitchen"
+    "machine": "Pasta Kitchen",
+    "storage": "barn"
   },
   "Coconut": {
     "ingredients": {},
     "time": 2160,
     "xp": 21,
-    "machine": "Coconut tree"
+    "machine": "Coconut tree",
+    "storage": "barn"
   },
   "Macaroon": {
     "ingredients": {
@@ -3269,7 +3623,8 @@
     },
     "time": 30,
     "xp": 50,
-    "machine": "Bakery"
+    "machine": "Bakery",
+    "storage": "barn"
   },
   "Plum smoothie": {
     "ingredients": {
@@ -3280,7 +3635,8 @@
     },
     "time": 35,
     "xp": 62,
-    "machine": "Smoothie Mixer"
+    "machine": "Smoothie Mixer",
+    "storage": "barn"
   },
   "Dried fruit": {
     "ingredients": {
@@ -3291,7 +3647,8 @@
     },
     "time": 180,
     "xp": 32,
-    "machine": "Preservation Station"
+    "machine": "Preservation Station",
+    "storage": "barn"
   },
   "Mint fudge": {
     "ingredients": {
@@ -3302,7 +3659,8 @@
     },
     "time": 150,
     "xp": 62,
-    "machine": "Fudge Shop"
+    "machine": "Fudge Shop",
+    "storage": "barn"
   },
   "Coconut ice cream": {
     "ingredients": {
@@ -3311,7 +3669,8 @@
     },
     "time": 15,
     "xp": 38,
-    "machine": "Ice Cream Maker"
+    "machine": "Ice Cream Maker",
+    "storage": "barn"
   },
   "Samosa": {
     "ingredients": {
@@ -3322,7 +3681,8 @@
     },
     "time": 75,
     "xp": 27,
-    "machine": "Deep Fryer"
+    "machine": "Deep Fryer",
+    "storage": "barn"
   },
   "Plain yogurt": {
     "ingredients": {
@@ -3331,7 +3691,8 @@
     },
     "time": 120,
     "xp": 28,
-    "machine": "Yogurt Maker"
+    "machine": "Yogurt Maker",
+    "storage": "barn"
   },
   "Mushroom soup": {
     "ingredients": {
@@ -3341,7 +3702,8 @@
     },
     "time": 80,
     "xp": 21,
-    "machine": "Soup Kitchen"
+    "machine": "Soup Kitchen",
+    "storage": "barn"
   },
   "Chili fudge": {
     "ingredients": {
@@ -3352,7 +3714,8 @@
     },
     "time": 170,
     "xp": 64,
-    "machine": "Fudge Shop"
+    "machine": "Fudge Shop",
+    "storage": "barn"
   },
   "Tropical smoothie": {
     "ingredients": {
@@ -3363,13 +3726,15 @@
     },
     "time": 40,
     "xp": 57,
-    "machine": "Smoothie Mixer"
+    "machine": "Smoothie Mixer",
+    "storage": "barn"
   },
   "Guava": {
     "ingredients": {},
     "time": 2040,
     "xp": 22,
-    "machine": "Guava tree"
+    "machine": "Guava tree",
+    "storage": "barn"
   },
   "Guava juice": {
     "ingredients": {
@@ -3377,7 +3742,8 @@
     },
     "time": 55,
     "xp": 30,
-    "machine": "Juice Press"
+    "machine": "Juice Press",
+    "storage": "barn"
   },
   "Guava compote": {
     "ingredients": {
@@ -3387,7 +3753,8 @@
     },
     "time": 260,
     "xp": 50,
-    "machine": "Preservation Station"
+    "machine": "Preservation Station",
+    "storage": "barn"
   },
   "Strawberry yogurt": {
     "ingredients": {
@@ -3396,7 +3763,8 @@
     },
     "time": 40,
     "xp": 63,
-    "machine": "Yogurt Maker"
+    "machine": "Yogurt Maker",
+    "storage": "barn"
   },
   "Veggie bouquet": {
     "ingredients": {
@@ -3407,7 +3775,8 @@
     },
     "time": 15,
     "xp": 42,
-    "machine": "Flower Shop"
+    "machine": "Flower Shop",
+    "storage": "barn"
   },
   "Chickpea stew": {
     "ingredients": {
@@ -3417,7 +3786,8 @@
     },
     "time": 90,
     "xp": 34,
-    "machine": "Stew Pot"
+    "machine": "Stew Pot",
+    "storage": "barn"
   },
   "Fruit sorbet": {
     "ingredients": {
@@ -3428,13 +3798,15 @@
     },
     "time": 60,
     "xp": 62,
-    "machine": "Ice Cream Maker"
+    "machine": "Ice Cream Maker",
+    "storage": "barn"
   },
   "Pomegranate": {
     "ingredients": {},
     "time": 1620,
     "xp": 22,
-    "machine": "Pomegranate tree"
+    "machine": "Pomegranate tree",
+    "storage": "barn"
   },
   "Pomegranate tea": {
     "ingredients": {
@@ -3443,7 +3815,8 @@
     },
     "time": 34,
     "xp": 37,
-    "machine": "Tea Stand"
+    "machine": "Tea Stand",
+    "storage": "barn"
   },
   "Lemon fudge": {
     "ingredients": {
@@ -3454,7 +3827,8 @@
     },
     "time": 110,
     "xp": 70,
-    "machine": "Fudge Shop"
+    "machine": "Fudge Shop",
+    "storage": "barn"
   },
   "Pomegranate cake": {
     "ingredients": {
@@ -3465,7 +3839,8 @@
     },
     "time": 160,
     "xp": 38,
-    "machine": "Cake Oven"
+    "machine": "Cake Oven",
+    "storage": "barn"
   },
   "Hummus wrap": {
     "ingredients": {
@@ -3475,7 +3850,8 @@
     },
     "time": 30,
     "xp": 45,
-    "machine": "Sandwich Bar"
+    "machine": "Sandwich Bar",
+    "storage": "barn"
   },
   "Tropical yogurt": {
     "ingredients": {
@@ -3486,7 +3862,8 @@
     },
     "time": 60,
     "xp": 54,
-    "machine": "Yogurt Maker"
+    "machine": "Yogurt Maker",
+    "storage": "barn"
   },
   "Chili stew": {
     "ingredients": {
@@ -3497,7 +3874,8 @@
     },
     "time": 120,
     "xp": 44,
-    "machine": "Stew Pot"
+    "machine": "Stew Pot",
+    "storage": "barn"
   },
   "Plain cupcake": {
     "ingredients": {
@@ -3508,7 +3886,8 @@
     },
     "time": 40,
     "xp": 34,
-    "machine": "Cupcake Maker"
+    "machine": "Cupcake Maker",
+    "storage": "barn"
   },
   "Guava cupcake": {
     "ingredients": {
@@ -3518,7 +3897,8 @@
     },
     "time": 70,
     "xp": 70,
-    "machine": "Cupcake Maker"
+    "machine": "Cupcake Maker",
+    "storage": "barn"
   },
   "Rice ball": {
     "ingredients": {
@@ -3528,7 +3908,8 @@
     },
     "time": 45,
     "xp": 55,
-    "machine": "Sushi Bar"
+    "machine": "Sushi Bar",
+    "storage": "barn"
   },
   "Fresh diffuser": {
     "ingredients": {
@@ -3537,7 +3918,8 @@
     },
     "time": 20,
     "xp": 42,
-    "machine": "Perfumerie"
+    "machine": "Perfumerie",
+    "storage": "barn"
   },
   "Peanut fudge": {
     "ingredients": {
@@ -3548,7 +3930,8 @@
     },
     "time": 90,
     "xp": 136,
-    "machine": "Fudge Shop"
+    "machine": "Fudge Shop",
+    "storage": "barn"
   },
   "Tropical cupcake": {
     "ingredients": {
@@ -3558,7 +3941,8 @@
     },
     "time": 90,
     "xp": 68,
-    "machine": "Cupcake Maker"
+    "machine": "Cupcake Maker",
+    "storage": "barn"
   },
   "Winter stew": {
     "ingredients": {
@@ -3569,7 +3953,8 @@
     },
     "time": 140,
     "xp": 7,
-    "machine": "Stew Pot"
+    "machine": "Stew Pot",
+    "storage": "barn"
   },
   "Zesty perfume": {
     "ingredients": {
@@ -3578,7 +3963,8 @@
     },
     "time": 15,
     "xp": 46,
-    "machine": "Perfumerie"
+    "machine": "Perfumerie",
+    "storage": "barn"
   },
   "Cookie cupcake": {
     "ingredients": {
@@ -3589,7 +3975,8 @@
     },
     "time": 120,
     "xp": 85,
-    "machine": "Cupcake Maker"
+    "machine": "Cupcake Maker",
+    "storage": "barn"
   },
   "Plain waffles": {
     "ingredients": {
@@ -3599,7 +3986,8 @@
     },
     "time": 25,
     "xp": 24,
-    "machine": "Waffle Maker"
+    "machine": "Waffle Maker",
+    "storage": "barn"
   },
   "Berry waffles": {
     "ingredients": {
@@ -3610,7 +3998,8 @@
     },
     "time": 35,
     "xp": 72,
-    "machine": "Waffle Maker"
+    "machine": "Waffle Maker",
+    "storage": "barn"
   },
   "Calming diffuser": {
     "ingredients": {
@@ -3619,7 +4008,8 @@
     },
     "time": 25,
     "xp": 20,
-    "machine": "Perfumerie"
+    "machine": "Perfumerie",
+    "storage": "barn"
   },
   "Orange salad": {
     "ingredients": {
@@ -3630,7 +4020,8 @@
     },
     "time": 45,
     "xp": 66,
-    "machine": "Salad Bar"
+    "machine": "Salad Bar",
+    "storage": "barn"
   },
   "Chocolate waffles": {
     "ingredients": {
@@ -3641,7 +4032,8 @@
     },
     "time": 40,
     "xp": 76,
-    "machine": "Waffle Maker"
+    "machine": "Waffle Maker",
+    "storage": "barn"
   },
   "Breakfast waffles": {
     "ingredients": {
@@ -3652,7 +4044,8 @@
     },
     "time": 45,
     "xp": 51,
-    "machine": "Waffle Maker"
+    "machine": "Waffle Maker",
+    "storage": "barn"
   },
   "Oats": {
     "ingredients": {
@@ -3660,7 +4053,8 @@
     },
     "time": 7,
     "xp": 1,
-    "machine": "Field"
+    "machine": "Field",
+    "storage": "silo"
   },
   "Breakfast bowl": {
     "ingredients": {
@@ -3671,7 +4065,8 @@
     },
     "time": 50,
     "xp": 54,
-    "machine": "Yogurt Maker"
+    "machine": "Yogurt Maker",
+    "storage": "barn"
   },
   "Apple porridge": {
     "ingredients": {
@@ -3681,7 +4076,8 @@
     },
     "time": 20,
     "xp": 62,
-    "machine": "Porridge Bar"
+    "machine": "Porridge Bar",
+    "storage": "barn"
   },
   "Pineapple coconut bars": {
     "ingredients": {
@@ -3692,7 +4088,8 @@
     },
     "time": 40,
     "xp": 34,
-    "machine": "Bakery"
+    "machine": "Bakery",
+    "storage": "barn"
   },
   "Sweet porridge": {
     "ingredients": {
@@ -3702,7 +4099,8 @@
     },
     "time": 45,
     "xp": 55,
-    "machine": "Porridge Bar"
+    "machine": "Porridge Bar",
+    "storage": "barn"
   },
   "Rich soap": {
     "ingredients": {
@@ -3712,7 +4110,8 @@
     },
     "time": 70,
     "xp": 32,
-    "machine": "Bath Kiosk"
+    "machine": "Bath Kiosk",
+    "storage": "barn"
   },
   "Fresh porridge": {
     "ingredients": {
@@ -3723,7 +4122,8 @@
     },
     "time": 35,
     "xp": 52,
-    "machine": "Porridge Bar"
+    "machine": "Porridge Bar",
+    "storage": "barn"
   },
   "Vanilla milkshake": {
     "ingredients": {
@@ -3734,7 +4134,8 @@
     },
     "time": 45,
     "xp": 80,
-    "machine": "Milkshake Bar"
+    "machine": "Milkshake Bar",
+    "storage": "barn"
   },
   "Mocha milkshake": {
     "ingredients": {
@@ -3743,7 +4144,8 @@
     },
     "time": 30,
     "xp": 125,
-    "machine": "Milkshake Bar"
+    "machine": "Milkshake Bar",
+    "storage": "barn"
   },
   "Fruity milkshake": {
     "ingredients": {
@@ -3753,6 +4155,7 @@
     },
     "time": 35,
     "xp": 90,
-    "machine": "Milkshake Bar"
+    "machine": "Milkshake Bar",
+    "storage": "barn"
   }
 }

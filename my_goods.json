@@ -1,6 +1,6 @@
 {
-  "Cheese fondue": {"number": 1},
-  "Potato bread": {"number":1},
-  "Hamburger": {"number":1}
+  "Cheese fondue": {"number": 0},
+  "Potato bread": {"number":0},
+  "Wheat": {"number":1}
  
 }
