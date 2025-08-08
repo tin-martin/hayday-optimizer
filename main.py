@@ -395,21 +395,42 @@ with tab_run:
 
             # Storage table (AFTER Gantt)
             st.subheader("Storage Usage Over Time")
-            storage_records = []
-            for i in range(len(times)):
-                silo_arr = [solver.Value(j) for j in storage[i][0]]
-                barn_arr = [solver.Value(j) for j in storage[i][1]]
-                t_val = solver.Value(times[i])
-                storage_records.append((t_val, sum(silo_arr), sum(barn_arr)))
+            # Clean storage usage plot (aggregate by unique time, sorted; step lines)
+            from collections import defaultdict
 
-            st.dataframe(
-                {
-                    "Time": [t for t, _, _ in storage_records],
-                    "Silo Used (Δ)": [s for _, s, _ in storage_records],
-                    "Barn Used (Δ)": [b for _, _, b in storage_records],
-                },
-                use_container_width=True,
+            # Aggregate deltas by unique time
+            agg = defaultdict(lambda: {"silo": 0, "barn": 0})
+
+         
+            agg[0]['silo'] = initial_silo_storage
+            agg[0]['barn'] = initial_barn_storage
+            for i in range(len(times)):
+                t_val = solver.Value(times[i])
+                agg[t_val]["silo"] = sum(solver.Value(v) for v in storage[i][0])
+                agg[t_val]["barn"] = sum(solver.Value(v) for v in storage[i][1])
+
+            # Sorted series
+            t_vals = sorted(agg.keys())
+            silo_used = [agg[t]["silo"] for t in t_vals]
+            barn_used = [agg[t]["barn"] for t in t_vals]
+
+            fig_store = go.Figure()
+            fig_store.add_trace(go.Scatter(x=t_vals, y=silo_used, mode="lines",
+                                        line_shape="hv", name="Silo Storage"))
+            fig_store.add_trace(go.Scatter(x=t_vals, y=barn_used, mode="lines",
+                                        line_shape="hv", name="Barn Storage"))
+
+            fig_store.update_layout(
+
+                xaxis_title="Time",
+                yaxis_title="",
+                legend_title_text="Series",
+                margin=dict(l=40, r=20, t=40, b=40),
             )
+            st.plotly_chart(fig_store, use_container_width=True)
+
+
+            
         else:
             st.error(f"No feasible solution found (elapsed {elapsed:.2f}s). Try increasing horizon, capacities, or machines.")
 
